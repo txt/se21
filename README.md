@@ -9,6 +9,10 @@ homes1:
 - next hone, config files
 
 honeworks: different dsl and their anstractions
+= python as a dsl. dictionary tricks. my cli for python. my simulation language
+- mustache
+  - web generation
+- python annocations. click
 
 assignment 15/20 for doing it. 5/20 for shomething you ahve learn something sich that you
 can things like this in future
