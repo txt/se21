@@ -1,5 +1,8 @@
 http://tiny.cc/se21
 
+?? policy. active curent developers can do solo projects, or work in groups of two with other seasoned develops
+- plnb work with teams and, where possible, without be intrusive or boset, introduce them to so cool tech
+
 homes1: 
 
 - score old projects. vote for what do or do something new
