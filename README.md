@@ -133,8 +133,8 @@ for clean up. do  you?
 
 ## Case studies
 
-- week1: copilot
-- week2: /the social dilemma
+- week1: [copilot](https://copilot.github.com) and  ask [41 Questions](https://medium.com/@frailestthing/do-artifacts-have-ethics-672246c6696a).
+- week2: [/the social dilemma](https://www.documentaryarea.tv/player.php?title=The%20Social%20Dilemma)
 - after that, tbd
 
 ## Code
