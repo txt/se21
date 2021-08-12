@@ -1,10 +1,11 @@
 <a name=top>
        
-<img align=right width=400 src="https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466">
-  
+
 
 # Sinless  Software Engineering
 
+<img align=right width=400 src="https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466">
+  
 
        -=-        “A saint is not someone who never sins, 
     (\  _  /)      but one who sins less and less frequently."
