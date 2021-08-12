@@ -21,7 +21,8 @@ Projects will be determined by student background: skilled programmers will buil
 ## Why do this subject?
 
 - Three months of glorious hacking
-- Deeper  understanding of data mining, optimization, explanation,
+- Deeper  understanding of Software 2.0,
+  data mining, optimization, explanation,
   fairness.
 - Cause its the right thing to do
   - Software rules the  world, sometimes for good, often for bad.
@@ -52,16 +53,27 @@ for clean up. do  you?
 
 ## Theory
 
+-  Software 2.0
+   -  care and feeding of optimizers
 - simplifying fairness
   - so much on  fairness, so much that is needless confusion
     - combine  IEEE EU, Microsoft
   - definitions:  suvodeep's survey
   - disastrous  new results
+  - new  tools:  
+     - keys
+     - HPO : 
+       - of course if  we build for criteria1, we 
+         may  fail by some other  criteria2.
+       - so  lets build for crtiria 1+2
 - simplifying explanation
   - don't say explain, say abduct
   - simplifying  inference (with keys)
       - keys. many systems  controlled by just a few
       - semi-supervised learning. contrast sets
+      - from a  data perspective, most details don't matter
+        - range, feature, instance selection
+        -  LACE2
       - statistically, most of our nuances  don't matter
         - parametric (e.g. ttest, hedges)
         - nonparametric (e.g. bootstrap, cliffsdelta)
