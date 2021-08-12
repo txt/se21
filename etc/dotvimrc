@@ -1,0 +1,171 @@
+set list
+set listchars=tab:>-
+set backupdir-=.
+set backupdir^=~/tmp,/tmp
+set nocompatible   
+"filetype plugin indent on
+set modelines=3
+set scrolloff=3
+set autoindent
+set hidden "remember ls
+set wildmenu
+set wildmode=list:longest
+set visualbell
+set ttyfast
+set backspace=indent,eol,start
+set laststatus=2
+set splitbelow
+set paste
+set mouse=a
+set title
+"set number
+"set relativenumber
+autocmd BufEnter * cd %:p:h
+set showmatch
+set matchtime=15
+set background=light
+set syntax=on
+syntax enable
+set ignorecase
+set incsearch
+set smartcase
+set showmatch
+set hlsearch
+set nofoldenable    " disable folding
+set ruler
+set laststatus=2
+set statusline=
+set statusline+=%F
+set statusline+=\ 
+set statusline+=%m
+set statusline+=%=
+set statusline+=%y
+set statusline+=\ 
+set statusline+=%c
+set statusline+=:
+set statusline+=%l
+set statusline+=\ 
+set lispwords+=do-pairs
+set lispwords+=whale
+set lispwords+=aif
+set lispwords+=loop
+set lispwords+=bad
+set lispwords+=until
+set lispwords+=deftest
+set lispwords+=defklass
+set lispwords+=defmemo
+set lispwords+=do-pairs
+set lispwords+=do-items
+set lispwords+=while
+set lispwords+=with-csv
+set lispwords+=until
+set path+=../**
+if has("mouse_sgr")
+    set ttymouse=sgr
+else
+    set ttymouse=xterm2
+end
+set termguicolors
+let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+map Z 1z=
+"set spell spelllang=en_us
+set spellsuggest=fast,20 "Don't show too much suggestion for spell check
+nn <F7> :setlocal spell! spell?<CR>
+let g:vim_markdown_fenced_languages = ['lisp=lisp']
+set nocompatible              " be iMproved, required
+filetype off                  " required
+
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+" alternatively, pass a path where Vundle should install plugins
+"call vundle#begin('~/some/path/here')
+
+" let Vundle manage Vundle, required
+Plugin 'VundleVim/Vundle.vim'
+"Plugin 'tpope/vim-fugitive'
+Plugin 'scrooloose/nerdtree'
+Plugin 'kien/rainbow_parentheses.vim'
+Plugin 'nielsmadan/harlequin'
+Plugin 'tbastos/vim-lua'
+Plugin 'airblade/vim-gitgutter'
+"Plugin 'itchyny/lightline.vim'
+Plugin 'junegunn/fzf'
+"  Plugin 'humiaozuzu/tabbar'
+"  Plugin 'drmingdrmer/vim-tabbar'
+Plugin 'tomtom/tcomment_vim'
+Plugin 'ap/vim-buftabline'
+Plugin 'junegunn/fzf.vim'
+Plugin 'jnurmine/Zenburn'
+Plugin 'altercation/vim-colors-solarized'
+Plugin 'nvie/vim-flake8'
+Plugin 'seebi/dircolors-solarized'
+"Plugin 'vim-syntastic/syntastic'
+Plugin 'nequo/vim-allomancer'
+Plugin 'julialang/julia-vim'
+Plugin 'nanotech/jellybeans.vim'
+Plugin 'tell-k/vim-autopep8'
+Plugin 'morhetz/gruvbox'
+Plugin 'tomasr/molokai'
+"Plugin 'vimwiki/vimwiki'
+Plugin 'sonph/onehalf'
+Plugin 'dracula/vim', { 'as': 'dracula' }
+Plugin 'kchmck/vim-coffee-script'
+Plugin 'tpope/vim-markdown'
+Plugin 'tpope/vim-commentary'
+" All of your Plugins must be added before the following line
+call vundle#end()            " required
+filetype plugin indent on    " required
+" To ignore plugin indent changes, instead use:
+filetype plugin on
+"let g:autopep8_indent_size=2
+"let g:autopep8_max_line_length=79
+"let g:autopep8_on_save = 1
+"let g:autopep8_disable_show_diff=1
+"let g:autopep8_ignore="E261,E302,E301"
+"autocmd FileType python noremap <buffer> <F8> :call Autopep8()<CR>
+colorscheme harlequin
+nmap <F9> :!../../gold -t %<C-M>p
+nnoremap <Leader><space> :noh<cr>
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+set titlestring=%{expand(\"%:p:h\")}
+hi Normal guibg=NONE ctermbg=NONE
+hi NonText guibg=NONE ctermbg=NONE
+set fillchars=vert:\|
+hi VertSplit cterm=NONE
+set ts=2
+set sw=2
+set sts=2
+set et
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
+set hidden
+nnoremap <C-N> :bnext<CR>
+nnoremap <C-P> :bprev<CR>
+set formatoptions-=t
+set nowrap
+" Markdown
+let g:markdown_fenced_languages = ['lisp','lua','awk','py=python']
+let g:GitGutterSignsDisable=0
+colorscheme jellybeans
+set number
+set statusline+=%#warningmsg#
+"set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+autocmd Filetype python setlocal ts=2 sw=2 expandtab  
+" let g:syntastic_always_populate_loc_list = 1
+" let g:syntastic_auto_loc_list = 1
+" let g:syntastic_check_on_open = 1
+" let g:syntastic_check_on_wq = 0
+" let g:syntastic_python_checkers = ['python']
+" let g:syntastic_python_python_exec = 'python3'
+" let g:syntastic_loc_list_height=5
+"autocmd BufWritePost *.py call Flake8()
+"au BufRead,BufNewFile *.md set filetype=lisp
+autocmd Filetype lisp setlocal ts=2 sw=2 expandtab  
+autocmd Filetype markdown setlocal ts=2 sw=2 expandtab  
+
+au VimEnter * RainbowParenthesesToggle
+au Syntax * RainbowParenthesesLoadRound
+au Syntax * RainbowParenthesesLoadSquare
+au Syntax * RainbowParenthesesLoadBraces
