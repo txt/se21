@@ -1,9 +1,6 @@
-# Build an  AI. Build it better 
+<a name=top>
 
-Better = faster, generalizable, simpler, explicable, fairer
-
-When lawyers and politicians cannot keep up with technical innovations, it is up to us technologists to deliberately sin less. When we might not be able to aways avoid undesirable social effects of our technology, we should at least try to write software that sins less, whenever it can.
-
+# Sinless  Software Engineering
 
 
        -=-        “A saint is not someone who never sins, 
@@ -14,9 +11,28 @@ When lawyers and politicians cannot keep up with technical innovations, it is up
      /     \  hjw
      `-._.-'
 
-This subject treats ethics as an AI-based optimization problem where software makes choices that at least monitors, and at most improves, the ethical impact of software. Topics covered will include ethics, case studies in ethical software, international standard for ethics in AI and software engineering, safety engineering, data mining, pareto optimization, multi-objective optimization, bayesian parameter optimization, discretization, explanation, planning,.
+Your task:
 
-Projects will be determined by student background: skilled programmers will build AI tools that make better ethical choice; other students will do extensive case studies in ethics and software engineering.
+- Build an  AI. Build it better 
+- Better = faster, generalizable, simpler, explicable, fairer
+
+When lawyers and politicians cannot keep up with technical innovations,
+it is up to us technologists to deliberately sin less. When we might
+not be able to aways avoid undesirable social effects of our
+technology, we should at least try to write software that sins less,
+whenever it can.
+
+This subject treats ethics as an AI-based optimization problem where
+software makes choices that at least monitors, and at most improves,
+the ethical impact of software. Topics covered will include ethics,
+case studies in ethical software, international standard for ethics
+in AI and software engineering, safety engineering, data mining,
+pareto optimization, multi-objective optimization, bayesian parameter
+optimization, discretization, explanation, planning,.
+
+Projects will be determined by student background: skilled programmers
+will build AI tools that make better ethical choice; other students
+will do extensive case studies in ethics and software engineering.
 
 ## Why do this subject?
 
@@ -24,7 +40,7 @@ Projects will be determined by student background: skilled programmers will buil
 - Deeper  understanding of Software 2.0,
   data mining, optimization, explanation,
   fairness.
-- Cause its the right thing to do
+- Cause it is the right thing to do
   - Software rules the  world, sometimes for good, often for bad.
     Time to change  that.
   - But we  are  software engineers:
@@ -51,7 +67,7 @@ but  you  know this, you learned in childhood. remember, the
 cat in the hat did do disrupt, then we did clean up. he had tools
 for clean up. do  you?
 
-## Theory
+## Theory (to  be covered in lectures)
 
 -  Software 2.0
    -  care and feeding of optimizers
@@ -119,9 +135,14 @@ for clean up. do  you?
 
 - week1: copilot
 - week2: /the social dilemma
+- after that, tbd
 
-## code
+## Code
 
+- Why LUA? 
+  - Python-esque
+  - [Simple](https://learnxinyminutes.com/docs/lua/)
+  - readable, rewritable if your  favorite  code
 - polymorpjsim, not inheritance
 - often  functional (passing  functions as variables)
 - data and  dialog independence. Table class. 
@@ -144,6 +165,10 @@ for clean up. do  you?
   -  \_travis.yml (the $? trick)
   -  docs
      - docs/_config.yml
-     - docs/index.md :name your team (? use psuedonms, make up some bogus
+     - docs/index.md :name
+your team (? use psuedonms, make up some 
        qualifications?)
 
+## Lectures
+
+- [Intro](https://www.dropbox.com/s/lhtfecn4o9ccyvg/mar5students.pptx?dl=0)
