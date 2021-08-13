@@ -2,11 +2,11 @@
 <a  href="https://git.io/sin21"><img width=1000 src="https://github.com/txt/sin21/blob/main/docs/img/sinless.png"></a>       
 
 
-# Sinless  Software Engineering
 
 <img align=right width=400 src="https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466">
   
-csc591/791, Fall 2021, NC State
+Todo: balancing, keys, rule-based programming
+
 
        -=-        “A saint is not someone who never sins, 
     (\  _  /)      but one who sins less and less frequently."
@@ -19,7 +19,7 @@ csc591/791, Fall 2021, NC State
 Your task:
 
 - Build an  AI. Build it better 
-- Better = faster, generalizable, simpler, explicable, fairer
+- Better = faster, generalizable, simpler, explicable, fairer, using less data
 
 When lawyers and politicians cannot keep up with technical innovations,
 it is up to us technologists to deliberately sin less. When we might
