@@ -26,7 +26,7 @@
 <td></td>
 <td align=center><b>Lectures</b></td>
 </td><td align=center><b>Review </td>
-<td align=center><b>Events</b> </td>
+<td align=center><b>Timetable</b> </td>
 </tr>
 <tr>
 <td>
