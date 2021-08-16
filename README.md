@@ -10,8 +10,7 @@
 <a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups</a> ::
 <a href="https://moodle-courses2122.wolfware.ncsu.edu/course/view.php?id=3211">moodle</a> ::
 <a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=a5998f03-01df-4c6c-91c1-ad80003f3c7c">video</a> ::
-<a href="https://discord.gg/hPK7DyFx">chat invite</a>  ::
-<a href="https://github.com/txt/se21/blob/master/LICENSE.md#top">&copy; 2020</a>
+<a href="https://github.com/txt/se21/blob/master/LICENSE.md#top">&copy; 2021</a>
 <br>
 <hr>
 
@@ -52,7 +51,7 @@ would want to  use and maintain?</li>
     Lectures:
   </dt>
   <dd>
-    <a href="docs/01hello.md">Nov7</a>,<br>
+    <a href="docs/01hello.md">Aug19</a>,<br>
   </dd>
   <dt>
     Introduction:
@@ -66,11 +65,12 @@ would want to  use and maintain?</li>
 <!-- -------------------------------- -->
 
 </td><td align=center valign=top xwidth="100px">
-<a href="docs/essay.md">Essay</a>,<br>
-<a href="docs/proj3.md">Project3</a>,<br>
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vTvSwqxtS70AV3qWWwmuLyZF4eceq7FCkyxsqeqJaZNdw6CPvffCBqsqGM5vH1WL62kJQkN0D4KWyim/pub?start=false&loop=false&delayms=3000&slide=id.g906decb5d4_0_65">Homework3</a>,<br>
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vTvSwqxtS70AV3qWWwmuLyZF4eceq7FCkyxsqeqJaZNdw6CPvffCBqsqGM5vH1WL62kJQkN0D4KWyim/pub?start=false&loop=false&delayms=3000&slide=id.g906decb5d4_0_72">Homework2</a>, <br>
-<a href="docs/h01work.md">Homework1</a>,<br>
+<a href="docs/essay.md">Essay</a><br>
+<a href="docs/h03work.md">Homework3</a><br>
+<a href="docs/h02work.md">Homework2</a><br>
+<a href="docs/h01work.md">Homework1</a><br>
+<a href="docs/proj3.md">Project3</a><br>
+<a href="docs/proj2.md">Project2</a><br>
 <a href="docs/proj1.md">Project1</a>
 
 
@@ -80,14 +80,12 @@ would want to  use and maintain?</li>
  
 </td>
 <td valign=top>
-Tuesday Oct6 3pm: Midterm!
-<hr>
-This Thursday: Pick Proj2!<br>
-This week: Proj1!<br>
-This week: videos!<br>
-HW3 due Sept3:2400<br>
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vTvSwqxtS70AV3qWWwmuLyZF4eceq7FCkyxsqeqJaZNdw6CPvffCBqsqGM5vH1WL62kJQkN0D4KWyim/pub?start=false&loop=false&delayms=3000&slide=id.g906decb5d4_0_72" >HW2</a> due Aug24:2400<br>
-<a href="docs/h01work.md">Hw1</a> due Aug17:2400 
+Aug 26, Homework 1<br>
+Sept 2, Homework 2 <br>
+Sept 9, Homework 3<br>
+Sept 30, Project 1<br>
+Nov 4, Project 2<br>
+Nov 29, Project 3
 </td>
 </tr>
 
