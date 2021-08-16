@@ -34,10 +34,13 @@
 <tr>
 <td>
 
-Here's  your challenge:
+Two questions:
 
-Can you write software that anyone  else
-would want to  use and maintain?
+<ol>
+<li>Do you know the state-of-the-art in SE?</li>
+<li>Can you write software that anyone  else
+would want to  use and maintain?</li>
+</ol>
 
 
 </td>
