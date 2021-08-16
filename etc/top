@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+root=`git rev-parse --show-toplevel`
+files=`find $root/docs -name '*.md'`
+
+
+apply() { 
+  cat<<'EOF'
+<a name=top><&nbsp;</p>
+
+EOF
+   cat $1 | gawk  '
+          { while (getline >0) 
+              if ($0~/^[ \t]*$/) break
+           while (getline >0) 
+              print $0 }'
+}
+
+for f in $root/README.md ; do #$root/LICENSE.md ;do #$files; do
+   apply $f #> tmp$$
+#   #mv tmp$$ $f
+done
+

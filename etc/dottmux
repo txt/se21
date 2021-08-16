@@ -1,0 +1,68 @@
+set -g aggressive-resize on
+unbind C-b
+set -g prefix C-Space
+bind C-Space send-prefix
+set -g base-index 1
+# start with pane 1
+bind | split-window -h -c "#{pane_current_path}"
+bind - split-window -v -c "#{pane_current_path}"
+unbind '"'
+unbind %
+# open new windows in the current path
+bind c new-window -c "#{pane_current_path}"
+# reload config file
+#bind r source-file $Tnix/.config/dottmux
+unbind p
+bind p previous-window
+# shorten command delay
+set -sg escape-time 1
+# don't rename windows automatically
+set-option -g allow-rename off
+# mouse control (clickable windows, panes, resizable panes)
+set -g mouse on
+# Use Alt-arrow keys without prefix key to switch panes
+bind -n M-Left select-pane -L
+bind -n M-Right select-pane -R
+bind -n M-Up select-pane -U
+bind -n M-Down select-pane -D
+# enable vi mode keys
+set-window-option -g mode-keys vi
+# set default terminal mode to 256 colors
+set -g default-terminal "screen-256color"
+bind-key u capture-pane \;\
+    save-buffer /tmp/tmux-buffer \;\
+    split-window -l 10 "urlview /tmp/tmux-buffer"
+bind P paste-buffer
+bind-key -T copy-mode-vi v send-keys -X begin-selection
+bind-key -T copy-mode-vi y send-keys -X copy-selection
+bind-key -T copy-mode-vi r send-keys -X rectangle-toggle
+# loud or quiet?
+set-option -g visual-activity off
+set-option -g visual-bell off
+set-option -g visual-silence off
+set-window-option -g monitor-activity off
+set-option -g bell-action none
+#  modes
+setw -g clock-mode-colour colour5
+# panes
+# statusbar
+set -g status-position top
+set -g status-justify left
+set -g status-bg colour232
+set -g status-fg colour137
+###set -g status-attr dim
+#set -g status-left ''
+#set -g status-right '#{?window_zoomed_flag,🔍,} #[fg=colour255,bold]#H #[fg=colour255,bg=colour19,bold] %b %d #[fg=colour255,bg=colour8,bold] %H:%M '
+#set -g status-right '#{?window_zoomed_flag,🔍,} #[fg=colour255,bold]#H '
+set status-right '"#22T" %H:%M %d-%b-%y'
+#set -g status-right-length 50
+#set -g status-left-length 20
+#setw -g window-status-current-format ' #I#[fg=colour249]:#[fg=colour255]#W#[fg=colour249]#F %H:%M '
+#setw -g window-status-format ' #I#[fg=colour237]:#[fg=colour250]#W#[fg=colour244]#F %H:%M '
+# messages
+# layouts
+#bind S source-file $Tnix/.config/tmux-session1
+setw -g monitor-activity on
+set -g visual-activity on
+
+
