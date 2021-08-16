@@ -1,7 +1,13 @@
 <a name=top><p>&nbsp;</p>
 <a  href="https://git.io/sin21"><img width=1000 src="https://github.com/txt/sin21/blob/main/docs/img/sinless.png"></a>       
 
+Problem dont know how to teach ethics (yet). so one of your delvierables at ene dof semsester is a syllaus for a better version of this ssubject
 
+XXX several secretet to sinless
+- suvodep: may metrics eman the same
+- EU, Msoft, IEEE: often come down to transparacey
+  - and we can tidy up decades of work on that. abduction. keys (minimal environments). simpler data mining
+- HPO for mdoel generation
 
 <img align=right width=400 src="https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466">
   
