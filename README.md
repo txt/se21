@@ -1,4 +1,99 @@
-<<<<<<< HEAD
+
+<a name=top>
+<a href="http://tiny.cc/se21"><img  width=700
+  src="https://raw.githubusercontent.com/txt/se21/master/docs/img/femse.jpg"></a>
+<hr>
+<p>
+&nbsp;<a href="https://tiny.cc/se21">home</a> ::
+<a href="https://github.com/txt/se21/blob/master/docs/syllabus.md#top">syllabus</a> ::
+<a href="https://github.com/txt/se21/blob/master/docs/syllabus.md#timetable">timetable</a> ::
+<a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups</a> ::
+<a href="https://moodle-courses2122.wolfware.ncsu.edu/course/view.php?id=3211">moodle</a> ::
+<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=a5998f03-01df-4c6c-91c1-ad80003f3c7c">video</a> ::
+<a href="https://discord.gg/hPK7DyFx">chat invite</a>  ::
+<a href="https://github.com/txt/se21/blob/master/LICENSE.md#top">&copy; 2020</a>
+<br>
+<hr>
+
+
+<table width="100%" border=0 align=center>
+<tr>
+<td></td>
+<td align=center width=200><img           src="etc/img/lectures.gif"></td>
+<td align=center><img           src="etc/img/homework.png"></td>
+<td align=center><img           src="etc/img/review.gif"></td>
+<td align=center width=200><img  width=64 src="etc/img/time.png"></td>
+</tr>
+<tr>
+<td></td>
+<td align=center><b>Lectures</b></td>
+<td align=center><b>Project/HW</b>
+</td><td align=center><b>Review </td>
+<td align=center><b>Events</b> </td>
+</tr>
+<tr>
+<td>
+
+Here's  your challenge:
+
+Can you write software that anyone  else
+would want to  use and maintain?
+
+
+</td>
+<td valign=top  xwidth="100px">
+
+<!-- -------------------------------- -->
+<dl>
+  <dt>
+    Lectures:
+  </dt>
+  <dd>
+    <a href="docs/01hello.md">Nov7</a>,<br>
+  </dd>
+  <dt>
+    Introduction:
+  </dt>
+  <dd>
+    <a href="docs/l00hello.md">Hello</a>, <br>
+    <a href="docs/syllabus.md">Syllabus</a>
+  </dd>
+</dl>
+
+<!-- -------------------------------- -->
+
+</td><td align=center valign=top xwidth="100px">
+<a href="docs/essay.md">Essay</a>,<br>
+<a href="docs/proj3.md">Project3</a>,<br>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vTvSwqxtS70AV3qWWwmuLyZF4eceq7FCkyxsqeqJaZNdw6CPvffCBqsqGM5vH1WL62kJQkN0D4KWyim/pub?start=false&loop=false&delayms=3000&slide=id.g906decb5d4_0_65">Homework3</a>,<br>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vTvSwqxtS70AV3qWWwmuLyZF4eceq7FCkyxsqeqJaZNdw6CPvffCBqsqGM5vH1WL62kJQkN0D4KWyim/pub?start=false&loop=false&delayms=3000&slide=id.g906decb5d4_0_72">Homework2</a>, <br>
+<a href="docs/h01work.md">Homework1</a>,<br>
+<a href="docs/proj1.md">Project1</a>
+
+
+</td>
+<td align=center   valign=top xwidth="100px">
+<img width=40 src="https://cdn.imgbin.com/1/14/4/imgbin-new-tag-rc3dLQYRD66TXkmqTktPM3L0H.jpg">
+ 
+</td>
+<td valign=top>
+Tuesday Oct6 3pm: Midterm!
+<hr>
+This Thursday: Pick Proj2!<br>
+This week: Proj1!<br>
+This week: videos!<br>
+HW3 due Sept3:2400<br>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vTvSwqxtS70AV3qWWwmuLyZF4eceq7FCkyxsqeqJaZNdw6CPvffCBqsqGM5vH1WL62kJQkN0D4KWyim/pub?start=false&loop=false&delayms=3000&slide=id.g906decb5d4_0_72" >HW2</a> due Aug24:2400<br>
+<a href="docs/h01work.md">Hw1</a> due Aug17:2400 
+</td>
+</tr>
+
+</table>
+
+
+
+
+
 Cool stiff
 =======
 <a name=top>
@@ -7,8 +102,6 @@ Cool stiff
   
 # SE 21
   
->>>>>>> 7436c836ec1612b7a01e5d1a7bbb1ad77a30a941
-http://tiny.cc/se21
 
 ?? policy. active curent developers can do solo projects, or work in groups of two with other seasoned develops
 - plnb work with teams and, where possible, without be intrusive or boset, introduce them to so cool tech
