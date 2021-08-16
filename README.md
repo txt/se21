@@ -19,14 +19,12 @@
 <tr>
 <td></td>
 <td align=center width=200><img           src="docs/img/lectures.gif"></td>
-<td align=center><img           src="docs/img/homework.png"></td>
 <td align=center><img           src="docs/img/review.gif"></td>
 <td align=center width=200><img  width=64 src="docs/img/time.png"></td>
 </tr>
 <tr>
 <td></td>
 <td align=center><b>Lectures</b></td>
-<td align=center><b>Project/HW</b>
 </td><td align=center><b>Review </td>
 <td align=center><b>Events</b> </td>
 </tr>
@@ -64,28 +62,17 @@ would want to  use and maintain?</li>
 
 <!-- -------------------------------- -->
 
-</td><td align=center valign=top xwidth="100px">
-<a href="docs/essay.md">Essay</a><br>
-<a href="docs/h03work.md">Homework3</a><br>
-<a href="docs/h02work.md">Homework2</a><br>
-<a href="docs/h01work.md">Homework1</a><br>
-<a href="docs/proj3.md">Project3</a><br>
-<a href="docs/proj2.md">Project2</a><br>
-<a href="docs/proj1.md">Project1</a>
-
-
-</td>
 <td align=center   valign=top xwidth="100px">
 <img width=40 src="https://cdn.imgbin.com/1/14/4/imgbin-new-tag-rc3dLQYRD66TXkmqTktPM3L0H.jpg">
  
 </td>
 <td valign=top>
-Aug 26, Homework 1<br>
-Sept 2, Homework 2 <br>
-Sept 9, Homework 3<br>
-Sept 30, Project 1<br>
-Nov 4, Project 2<br>
-Nov 29, Project 3
+Aug 26, <a href="docs/hw1.md">Homework 1</a><br>
+Sept 2, <a href="docs/hw2.md">Homework 2</a> <br>
+Sept 9, <a href="docs/hw3.md">Homework 3</a><br>
+Sept 30, <a href="docs/proj1.md">Project 1</a><br>
+Nov 4, <a href="docs/proj2.md">Project 2</a><br>
+Nov 29, <a href="docs/proj3.md">Project 3</a>
 </td>
 </tr>
 
