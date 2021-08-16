@@ -1,7 +1,7 @@
 
 <a name=top>
 <a href="http://tiny.cc/se21"><img  width=700
-  src="https://raw.githubusercontent.com/txt/se21/master/docs/img/femse.jpg"></a>
+  src="https://raw.githubusercontent.com/txt/se21/master/docs/img/femse.png"></a>
 <hr>
 <p>
 &nbsp;<a href="https://tiny.cc/se21">home</a> ::
