@@ -46,16 +46,10 @@ would want to  use and maintain?</li>
 <!-- -------------------------------- -->
 <dl>
   <dt>
-    Lectures:
-  </dt>
-  <dd>
-    <a href="docs/01hello.md">Aug19</a>,<br>
-  </dd>
-  <dt>
     Introduction:
   </dt>
   <dd>
-    <a href="docs/l00hello.md">Hello</a>, <br>
+    <a href="docs/00hello.md">Hello</a>, <br>
     <a href="docs/syllabus.md">Syllabus</a>
   </dd>
 </dl>
