@@ -76,7 +76,6 @@ What do these badges mean?
 [![Follow @picocli](https://img.shields.io/twitter/follow/picocli.svg?style=social)](https://twitter.com/intent/follow?screen_name=picocli) 
 [![Follow picocli on StackShare](https://img.shields.io/badge/Follow%20on-StackShare-blue.svg?logo=stackshare&style=flat)](https://stackshare.io/picocli)
 
-<img width="671" alt="image" src="https://user-images.githubusercontent.com/29195/129659281-b7420c48-f073-4fd6-a584-dd292ca07fc3.png">
 
 (And if you want more badges, see [shields.io](https://www.shields.io).
 
