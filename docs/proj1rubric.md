@@ -28,27 +28,20 @@
 ||Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|doc page entries||
 ||Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|||
 ||Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|||
- 
 |Tools Matter| Use of version control tools|||
 ||Use of  style checkers |config files in GH showing your config||
 || Use of code  formatters. |config files in GH showing your this formatter's  config||
 || Use of syntax checkers. |config files iin  GH showing this checker's config  ||
 || Use of code coverage |config files in GH||
 || other automated analysis tools|config files in GH||
-
 || test cases exist|dozens of tests and those test cases are more than 30% of the  code base||
-|| test cases are routinely executed|e.g. travis-com.com||
-| consensus-oriented model| the files CONTRIBUTING.md and CODEOFCONDUCT.md has have multiple edits by multiple people|||
+|| test cases are routinely executed|e.g. travis-com.com or github actions or something||
 | | the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|||
-| | multiple people contribute to discussions|||
-|| issues are discussed before they are closed|||
+|| issues are discussed before they are closed|even if you discuss in slack, need a sumamry statement here||
 || Chat channel: exists|||
-|| Chat channel: is active |||
-|| test cases:.a large proportion of the issues related to handling failing cases.|||
+|| test cases:.a large proportion of the issues related to handling failing cases.|if a test case fails, open an issue and fix it||
 | zero internal boundaries | evidence that the whole team is using the same tools: everyone can get to all tools and files|||
 | | evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|||
 | | evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|||
 | | evidence that the members of the team are working across multiple places in the code base|||
-| low-regressions rule | (hard to judge) features released are not subsequently removed|||
 |short release cycles | (hard to see in short projects) project members are committing often enough so that everyone can get your work|||
-|
