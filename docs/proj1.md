@@ -15,10 +15,10 @@
 
 # Project 1
 
-Goal1: start something that another groups will say
+Goal: start something that another groups will say
 "yes, for Project2, we want to finish that".
 
-You deliver:
+By the end of September, project1 will  deliver:
 
 - something that executes **some** of your goals, 
 - a [roadmap](https://github.com/se20z09/units_converter_extension/projects/1) telling others
@@ -125,4 +125,14 @@ you can emulate.
 - Copy the rubric to a markdown file. Fill it in. Where needed, add links into your repo to justify your answers.
   And that document to your repo as docs/proj1rubric.md.
 
+## Good practices for Effecive Teaming
+
+
+|What | Notes|
+|-----|------|
+|Misc | Group members attended group sessions|
+|Distrbuted dev model: | decisions made by unanmyous vote|
+|| group meetings had a round robin speaking order|
+|| group meetings had a moderator that managed the round robin| 
+|| group meeting moderator rotated among  the group|
 
