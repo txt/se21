@@ -127,6 +127,7 @@ you can emulate.
 
 ## Good practices for Effecive Teaming
 
+Meet however it makes teams most comfortable (in-person, on-line, whatever the team agrees on).
 
 |What | Notes|
 |-----|------|
