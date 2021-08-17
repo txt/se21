@@ -32,6 +32,10 @@ Pick something. Code it in any language using any tools you like. But
 - all the work has to be shared via Github (public repos, 
   general GH-- not NCSU):
 
+Pick something that  was 
+[popular last year](https://docs.google.com/spreadsheets/d/1mnNlF0Gx6E5oppd7LpeYy_mNuUkhgh30PiC2Z3RrGXI/edit#gid=0)
+(look for the things that got most votes).
+
 What to do? Well pick something:
 
 - Cool: 
@@ -56,6 +60,24 @@ your system has to do something better then something else.
 - And do so in a manner that is quantifiable.
 
 <br clear=all>
+
+## Examples of "good" repos
+
+What do these badges mean?
+
+<img width="671" alt="image" src="https://user-images.githubusercontent.com/29195/129659281-b7420c48-f073-4fd6-a584-dd292ca07fc3.png">
+
+(And if you want more badges, see [shields.io](https://www.shields.io).
+
+What are the features of  the  following repos that make them "good"?
+
+- http://docopt.org
+- https://github.com/harshitpatel96/GITS
+- https://github.com/JuliaImages/ImageInTerminal.jl
+- https://github.com/JuliaImages/ImageInTerminal.jl
+- https://github.com/daniruiz/dotfiles
+- https://github.com/chalk/chalk
+- https://github.com/marcotcr/lime
 
 ## Grading
 
