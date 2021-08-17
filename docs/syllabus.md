@@ -184,8 +184,10 @@ Xiao Ling
   
 Weichen Shi
 
-+ Github id:  XXX
-+ Discord  name: YYY
++ Github id:  shwch210d
++ Discord  name: Weichen#8407
++ Office Hours: Friday, 10:30-12:00  
++ Location: Zoom - https://ncsu.zoom.us/j/8113021611
 + E-mail: wshi6@ncsu.edu
 
 <br clear=all>
