@@ -19,15 +19,14 @@
 
  <a href="https://www.amazon.com/dp/B005IEGK5C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">Turing's Cathederal</a>
 
-<img width=500
-src="https://cdn.thenewstack.io/media/2020/10/8e6dde0b-maniac_memorytubes.jpg">
+<img width=500 src="https://cdn.thenewstack.io/media/2020/10/8e6dde0b-maniac_memorytubes.jpg">
 
 ## 1960s
 
 <a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">Mythical Man (sic) Month</a>
 
 
-<img width=500
+<img align=left width=500
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBumOaskOHgW-ZE_2Cg49DoKuf0y3qwG6jNA&usqp=CAU">
 
 "For some years I have been successfully 
@@ -43,26 +42,22 @@ Pay attention: half of development is testing.
 
 ## 1970s 
 
-Microelectronics and the Personal Computer
-Alan C. Kay
-Scientific American
-Vol. 237, No. 3 (September 1977), pp. 230-245
+Microelectronics and the Personal Computer Alan C. Kay Scientific
+American Vol. 237, No. 3 (September 1977), pp. 230-245
 
 <img width="680" alt="image" src="https://user-images.githubusercontent.com/29195/129641843-1cb3cead-6aa8-4b4f-9bd1-69d8fa617a8d.png">
 
 "The user makes his primary input through a typewriterlike keyboard
-and a pointing device called a moise
-which controls the position of 
-an arrow on the screen."
+and a pointing device called a moise which controls the position
+of an arrow on the screen."
 
-"WINDOWS" dislay frames within the  larger display
-screen, emable the user or organie  and  edit information at
-several levesl  of refinement.
+"WINDOWS" dislay frames within the  larger display screen, emable
+the user or organie  and  edit information at several levesl  of
+refinement.
 
 ## 1980s
 
-<a href="https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)"
-> Halt and Catch Fire</a>
+<a href="https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)"> Halt and Catch Fire</a>
 
 ## 1990s
 
@@ -70,8 +65,7 @@ Internet Bubble, Internet, Open Source
 
 ## 2000
 
-<a href="https://en.wikipedia.org/wiki/The_Social_Network"
->The Social Network</a>
+<a href="https://en.wikipedia.org/wiki/The_Social_Network">The Social Network</a>
 
 ## 2010
 
