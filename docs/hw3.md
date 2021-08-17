@@ -24,9 +24,11 @@ Same as the Homework 2, you will select another package which has been skimmed b
 - Submit the reuse report in the required format just like in HW 1
 
 ## What to do
-Go to the central spreadsheet XXX.
+Go to the DOR [repository](https://github.com/bhermann/DoR/issues).
   
-Find the packet number (wp-XX) you have been assigned to.
+Find the packet number (wp-XX) you want to work on. You must choose a packet that have **NOT** been assigned to anyone yet.
+  
+Assign yourself to the issue following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
   
 Grab your packet from the [DOR project](https://github.com/bhermann/DoR/tree/main/workflow/todo) 
   
@@ -36,6 +38,8 @@ Find and report reuse.
 
 Prepare your DOR report in the required format (see the [sample csv](https://github.com/bhermann/DoR/blob/main/workflow/results-sample.csv))
 
-Create your own GitHub repo, name your report csv file **wp-XX-results.csv** (where XX refers to the work package id like "ae"), upload your report.
+Name your report csv file **wp-XX-results.csv** (where XX refers to the work package id like "ae").
+  
+Upload you report file following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
 
-Paste the link to the central spreadsheet under the column `link to result`.
+In the central spreadsheet XXX, paste the link to the issue your worked on (under the column `link to result`).
