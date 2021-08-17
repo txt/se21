@@ -118,6 +118,10 @@ With the final grades, the following grade scale will be used:
      D+ (67-69),   D (63-66),   D-(60-62)
      F (below 60).
 
+### Timetable
+
+See ["Timetable"](http://tiny.cc/se21) on  our home page.
+
 ## Staff
 
 ### Lecturer
