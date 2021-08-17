@@ -13,7 +13,7 @@
 <br>
 <hr>
 
-# Assignment 1: Task Training (Due Tuesday, Aug. 24th)
+# Homework 1: Task Training (Due Tuesday, Aug. 24th)
   This document contains detailed descriptions on assignment 1. The purpose of this homework is to introduce the reuse in software engineering.
 
 ## Before You Start... Be Familiar with Reuse 
