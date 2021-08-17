@@ -13,7 +13,7 @@
 <br>
 <hr>
 
-# Homework 3: Check on the Real Package (Due Tuesday, Sept. 7th)
+# Homework 3: Check on the Real Package (Due Tuesday, Sept. 9th)
 
 
 Same as the Homework 2, you will select another package which has been skimmed before by another student, and do the same thing. Cross-checking is a good way to maintain the reliability of the data labelled by real people.
