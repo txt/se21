@@ -60,9 +60,9 @@
  
 </td>
 <td valign=top>
-Sept 2, Homework 1<br>
-Sept 9, Homework 2 <br>
-Sept 16, Homework 3<br>
+Aug 26, Homework 1<br>
+Sept 2, Homework 2 <br>
+Sept 9, Homework 3<br>
 Tbd,  Homework 4<br>
 Tbd,  Homework 5<br>
 Tbd,  Homework 6<br>
