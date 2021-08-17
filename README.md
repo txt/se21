@@ -30,12 +30,12 @@
 <tr>
 <td>
 
-Two questions:
+3 questions:
 
 <ol>
+<li>Can you write software that anyone  else would want to  use and maintain?</li>
 <li>Do you know the state-of-the-art in SE?</li>
-<li>Can you write software that anyone  else
-would want to  use and maintain?</li>
+<li>What is an ethical approach  to  SE?</li>
 </ol>
 
 
