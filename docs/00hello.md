@@ -26,6 +26,9 @@ of years of prior engineering.
 
  <a href="https://www.amazon.com/dp/B005IEGK5C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">Turing's Cathederal</a>
 
+- Computers and atomic bombs were invented at the same time, by the same people, for the same reasons.
+- We live today inside their hastily (but brilliantly) conceived design assumptions.
+
 <img width=500 src="https://cdn.thenewstack.io/media/2020/10/8e6dde0b-maniac_memorytubes.jpg">
 
 <br clear=all>
@@ -37,7 +40,7 @@ of years of prior engineering.
 
 -  "As computers have grown more powerful, 
    the new languages being developed have been moving steadily toward the 'Lisp' model. 
-   A popular recipe for new programming languages in the past 20 years has been to take the 'C; model of computing and add to it, piecemeal, 
+   A popular recipe for new programming languages in the past 20 years has been to take the 'C'; model of computing and add to it, piecemeal, 
    parts taken from the 'Lisp' model, like runtime typing and garbage collection."   
    -- Paul Graham
 
