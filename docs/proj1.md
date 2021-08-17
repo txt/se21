@@ -64,7 +64,10 @@ Your work will be assessed via how many of the
  (see pages 25,26)
 you can emulate.
 
-Note: complete this table and add to the root of your project in a file called _PROJ1-selfAssessment.md_.
+![image](https://user-images.githubusercontent.com/29195/129657782-3b32c13e-6283-4812-9d49-3cf1c062820d.png)
+
+Note: complete this table and add to the root of your project in a file called _PROJ1-selfAssessment.md_. And if the following
+asks for files, or issue reports, add links in that file.
 
 Total score: 
 - write down "4" into every right-hand-side cell
