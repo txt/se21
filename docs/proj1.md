@@ -18,9 +18,12 @@
 Goal1: start something that another groups will say
 "yes, for Project2, we want to finish that".
 
-Goal2: (much harder) start something  another groups will say
-"yes, for Project3, we know how to evaluate if that does something
-better than something else".
+You deliver:
+
+- something that executes **some** of your goals, 
+- a [roadmap](https://github.com/se20z09/units_converter_extension/projects/1) telling others
+  **where to go from here**
+- all the "bling" (described below) needed to convince another group that they should use your system.
 
 ## Start by Picking  a Project
 
