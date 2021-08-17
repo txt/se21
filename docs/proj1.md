@@ -127,10 +127,15 @@ you can emulate.
 
 ## Good practices for Effecive Teaming
 
-Meet however it makes teams most comfortable (in-person, on-line, whatever the team agrees on).
+
 
 |What | Notes|
 |-----|------|
+|Location| Meet however it makes teams most comfortable (in-person, on-line, whatever the team agrees on).|
+|Duration| Usually, keep meetings short (exception: long range direction meetings) |
+|End of meeting | Always agree on next meeting time before this meeting ends.|
+|| Review everyone's to do list|
+|Start of meeting | review everyone's to do lists from last meeting|
 |Misc | Group members attended group sessions|
 |Distrbuted dev model: | decisions made by unanmyous vote|
 || group meetings had a round robin speaking order|
