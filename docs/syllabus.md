@@ -428,8 +428,8 @@ buildings. Face coverings should be worn to cover the nose and mouth and be clos
 face with minimal gaps on the sides. In addition, students are responsible for keeping their
 course/work area clean.
   - You are  expected to wear masks in  lectures.
-    It is your choice  to decide if you  don't want to do that.
-    If you do that, then my  choice will be to
+  - It is your choice  to decide if you  don't want to do that.
+  - If you do that, then my  choice will be to
     - Stop the lecture and wait till you out  a mask on.
     - Report you at the 
       [COVID-19 Community Standards Reporting Form](https://cm.maxient.com/reportingform.php?NCStateUniv&layout_id=31)
