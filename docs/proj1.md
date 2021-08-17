@@ -67,6 +67,15 @@ your system has to do something better then something else.
 
 What do these badges mean?
 
+<p align="center"><img src="https://raw.githubusercontent.com/remkop/picocli/master/docs/images/logo/horizontal-400x150.png" alt="picocli" height="150px"></p>
+
+[![GitHub Release](https://img.shields.io/github/release/remkop/picocli.svg)](https://github.com/remkop/picocli/releases) 
+[![Build Status](https://travis-ci.org/remkop/picocli.svg?branch=master)](https://travis-ci.org/remkop/picocli) 
+[![codecov](https://codecov.io/gh/remkop/picocli/branch/master/graph/badge.svg)](https://codecov.io/gh/remkop/picocli) 
+[![Follow @remkopopma](https://img.shields.io/twitter/follow/remkopopma.svg?style=social)](https://twitter.com/intent/follow?screen_name=remkopopma) 
+[![Follow @picocli](https://img.shields.io/twitter/follow/picocli.svg?style=social)](https://twitter.com/intent/follow?screen_name=picocli) 
+[![Follow picocli on StackShare](https://img.shields.io/badge/Follow%20on-StackShare-blue.svg?logo=stackshare&style=flat)](https://stackshare.io/picocli)
+
 <img width="671" alt="image" src="https://user-images.githubusercontent.com/29195/129659281-b7420c48-f073-4fd6-a584-dd292ca07fc3.png">
 
 (And if you want more badges, see [shields.io](https://www.shields.io).
