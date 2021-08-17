@@ -67,7 +67,7 @@ your system has to do something better then something else.
 
 What do these badges mean?
 
-<p align="center"><img src="https://raw.githubusercontent.com/remkop/picocli/master/docs/images/logo/horizontal-400x150.png" alt="picocli" height="150px"></p>
+<p><img src="https://raw.githubusercontent.com/remkop/picocli/master/docs/images/logo/horizontal-400x150.png" alt="picocli" height="150px"></p>
 
 [![GitHub Release](https://img.shields.io/github/release/remkop/picocli.svg)](https://github.com/remkop/picocli/releases) 
 [![Build Status](https://travis-ci.org/remkop/picocli.svg?branch=master)](https://travis-ci.org/remkop/picocli) 
