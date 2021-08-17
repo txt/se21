@@ -180,7 +180,8 @@ Xiao Ling
 
 <p>&nbsp;</p>
 
-<img src="https://user-images.githubusercontent.com/41660376/89558051-b99e6380-d7e1-11ea-81f3-d8b4fac8aa32.jpg" align=right width=200>
+<img width=200 align=right src="https://user-images.githubusercontent.com/29195/129790935-2f0f8ec8-c17a-453d-91db-7dcde42d616c.png"> 
+  
 Weichen Shi
 
 + Github id:  XXX
