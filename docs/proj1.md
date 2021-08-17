@@ -79,9 +79,9 @@ alt="picocli" height="150px"></a></p>
 [![Follow picocli on StackShare](https://img.shields.io/badge/Follow%20on-StackShare-blue.svg?logo=stackshare&style=flat)](https://stackshare.io/picocli)
 
 
-What do these badges mean:
+What do these badges mean?
 
-<img src="https://miro.medium.com/max/1400/1*CQUOv5hCe8yMEu0t43GhIg.png">
+<a href="http://shields.io"><img src="https://miro.medium.com/max/1400/1*CQUOv5hCe8yMEu0t43GhIg.png"></a>
 
 (And if you want more badges, see [shields.io](https://www.shields.io)).
 
