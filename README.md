@@ -60,17 +60,17 @@ would want to  use and maintain?</li>
  
 </td>
 <td valign=top>
-Sept 2, <a href="docs/hw1.md">Homework 1</a><br>
-Sept 9, <a href="docs/hw2.md">Homework 2</a> <br>
-Sept 16, <a href="docs/hw3.md">Homework 3</a><br>
-Tbd, <a href="docs/hw3.md">Homework 4</a><br>
-Tbd, <a href="docs/hw3.md">Homework 5</a><br>
-Tbd, <a href="docs/hw3.md">Homework 6</a><br>
+Sept 2, Homework 1<br>
+Sept 9, Homework 2 <br>
+Sept 16, Homework 3<br>
+Tbd, <a Homework 4<br>
+Tbd, <a Homework 5<br>
+Tbd, <a Homework 6<br>
 Sept 30, <a href="docs/proj1.md">Project 1</a><br>
 Oct 5, Mid-term<br>
-Nov 4, <a href="docs/proj2.md">Project 2</a><br>
-Nov 29, <a href="docs/proj3.md">Project 3</a><br>
-Dec 3, <a href="docs/takeHomeExam.md">"Exam"</a>
+Nov 4, Project 2<br>
+Nov 29, Project 3<br>
+Dec 3, "Exam" 
 </td>
 </tr>
 
