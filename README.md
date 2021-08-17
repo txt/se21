@@ -1,4 +1,3 @@
-
 <a name=top>
 <a href="http://tiny.cc/se21"><img  width=700
   src="https://raw.githubusercontent.com/txt/se21/master/docs/img/femse.png"></a>
@@ -18,9 +17,9 @@
 <table width="100%" border=0 align=center>
 <tr>
 <td></td>
-<td align=center width=200><img           src="docs/img/lectures.gif"></td>
+<td align=center width=200><img src="docs/img/lectures.gif"></td>
 <td align=center><img           src="docs/img/review.gif"></td>
-<td align=center width=200><img  width=64 src="docs/img/time.png"></td>
+<td align=center width=200><img width=64 src="docs/img/time.png"></td>
 </tr>
 <tr>
 <td></td>
@@ -65,8 +64,10 @@ Aug 26, <a href="docs/hw1.md">Homework 1</a><br>
 Sept 2, <a href="docs/hw2.md">Homework 2</a> <br>
 Sept 9, <a href="docs/hw3.md">Homework 3</a><br>
 Sept 30, <a href="docs/proj1.md">Project 1</a><br>
+Oct 5, Mid-term<br>
 Nov 4, <a href="docs/proj2.md">Project 2</a><br>
 Nov 29, <a href="docs/proj3.md">Project 3</a>
+Dec 3, <a href="docs/takeHomeExam.md">"Exam"</a>
 </td>
 </tr>
 
