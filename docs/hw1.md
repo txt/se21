@@ -13,4 +13,8 @@
 <br>
 <hr>
 
-TBD
+# Assignment 1
+  
+This document contains detailed descriptions on assignment 1. The purpose of this homework is to let students be familiar with the artifacts reuse in software engineering domain.
+
+
