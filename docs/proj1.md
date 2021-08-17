@@ -36,6 +36,8 @@ Pick something that  was
 [popular last year](https://docs.google.com/spreadsheets/d/1mnNlF0Gx6E5oppd7LpeYy_mNuUkhgh30PiC2Z3RrGXI/edit#gid=0)
 (look for the things that got most votes).
 
+- Heck, even get a kick start by starting  with a project from last year.
+
 What to do? Well pick something:
 
 - Cool: 
