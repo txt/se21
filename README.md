@@ -63,9 +63,9 @@ would want to  use and maintain?</li>
 Sept 2, Homework 1<br>
 Sept 9, Homework 2 <br>
 Sept 16, Homework 3<br>
-Tbd, <a Homework 4<br>
-Tbd, <a Homework 5<br>
-Tbd, <a Homework 6<br>
+Tbd,  Homework 4<br>
+Tbd,  Homework 5<br>
+Tbd,  Homework 6<br>
 Sept 30, <a href="docs/proj1.md">Project 1</a><br>
 Oct 5, Mid-term<br>
 Nov 4, Project 2<br>
