@@ -32,6 +32,11 @@ of years of prior engineering.
 
 ## 1960s: Scaling Up Process
 
+
+The Mother of All Demos (warning: long) [about](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos) :: [video](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+The mother of all abstractions (warning: amazing): [about](http://www.paulgraham.com/rootsoflisp.html) [in python](https://norvig.com/lispy.html)
+
 <a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">Mythical Man (sic) Month</a>
 
 
@@ -53,7 +58,9 @@ Pay attention: half of development is testing.
 
 ## 1970s: Personnel
 
-Microelectronics and the Personal Computer Alan C. Kay Scientific
+Alan Kay: the best way to predict the future is to invent it.
+
+- If you want to see what he meant: [Microelectronics and the Personal Computer](http://mnielsen.github.io/notes/kay/micro.pdf) Alan C. Kay Scientific
 American Vol. 237, No. 3 (September 1977), pp. 230-245
 
 <img width="680" alt="image" src="https://user-images.githubusercontent.com/29195/129641843-1cb3cead-6aa8-4b4f-9bd1-69d8fa617a8d.png">
