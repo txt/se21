@@ -154,11 +154,13 @@ Andre Lustosa
 
 <p>&nbsp;</p>
 
-<img src="https://user-images.githubusercontent.com/41660376/89558051-b99e6380-d7e1-11ea-81f3-d8b4fac8aa32.jpg" align=right width=200>
+<img src="http://ai4se.net/img/KewenPeng.jpg" align=right width=200>
 Kewen Peng
 
-+ Github id:  
-+ Discord  name:  Kewen
++ Github id: kpeng2019
++ Discord  name:  Kewen#1729
++ Office Hours: Thursday, 13:30-15:00 
++ Location: Zoom - https://ncsu.zoom.us/j/4801316040
 + E-mail: kpeng@ncsu.edu
 
 <br clear=all>
