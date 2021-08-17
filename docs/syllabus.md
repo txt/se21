@@ -170,7 +170,8 @@ Xiao Ling
 
 + Github id:  XiaoLing941212
 + Discord  name: Xiao
-+ Office Hours: Tuesday, 13:00-14:30
++ Office Hours: Tuesday, 13:00-14:30 
++ Location: Zoom - https://ncsu.zoom.us/j/93603223799
 + E-mail: xling4@ncsu.edu
 
 <br clear=all>
