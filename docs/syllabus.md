@@ -178,13 +178,14 @@ Weichen Shi
 + Discord  name: YYY
 + E-mail: wshi6@ncsu.edu
 
+<br clear=all>
+
 -------
 
 ## Other Information
 
 ### Attendance
 
- 
 - Lectures are twice a week.
 - Tutorial sessions are optional, but please use our tutorial resources
   to help you along.
@@ -422,23 +423,13 @@ distancing, and sanitation. Face coverings are required in this class and in all
 buildings. Face coverings should be worn to cover the nose and mouth and be close fitting to the
 face with minimal gaps on the sides. In addition, students are responsible for keeping their
 course/work area clean.
-- Course Attendance: NC State attendance policies can be found
-at: https://policies.ncsu.edu/regulation/reg-02-20-03-attendance-regulations/ . Please refer to
-this course’s attendance, absence, and deadline policies for additional details. If you are
-quarantined or otherwise need to miss class because you have been advised that you may have
-been exposed to COVID-19, you should not be penalized regarding attendance or class
-participation. However, you will be expected to develop a plan to keep up with your coursework
-during any such absences. If you become ill with COVID-19, you should follow the steps
-outlined in the health and participating section above. COVID 19-related absences will be
-considered excused; documentation need only involve communication with your instructor.
-- Course Meeting Schedule: Your course might not have a traditional meeting schedule in Fall 2020. 
-Be sure to pay attention to any updates to the course schedule as the information in this
-syllabus may have changed. Please discuss any questions you have with the instructor.
-- Classroom Seating: To support efficient, effective contact tracing, please sit in the same seat
-when possible and take note of who is sitting around you; instructors may also assign seats for
-this purpose..
-- Technology Requirements: This course may require particular technologies to complete
-coursework. Be sure to review the syllabus for these expectations, and see go.ncsu.edu/syllabus-
-tech-requirements to find out more about technical requirements for your course. If you need
-access to additional technological support, please contact the Libraries’ Technology Lending
-Service: https://www.lib.ncsu.edu/devices.
+  - You are  expected to wear masks in  lectures.
+    It is your choice  to decide if you  don't want to do that.
+    If you do that, then my  choice will be to
+    - Stop the lecture and wait till you out  a mask on.
+    - Report you at the 
+      [COVID-19 Community Standards Reporting Form](https://cm.maxient.com/reportingform.php?NCStateUniv&layout_id=31)
+      "behavior they believe the University should take formal disciplinary action":
+
+![image](https://user-images.githubusercontent.com/29195/129649669-9db1d990-2cca-4fb8-b08c-61f4f19109f7.png)
+
