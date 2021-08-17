@@ -16,13 +16,13 @@
 # History
 
 
-Once apon a time:
+Once upon a time:
 
--  "users" and "requirements" were considerd to be outside of the scope of SE. And then..
+-  "users" and "requirements" were considered to be outside of the scope of SE. And then..
 - "compiling" was considered not safe practice for programmers. And then...
 -  "testing" was seen as "someone else's problem" (the test team). And then...
 -  "operations" was seen as "someone else's problem" (the field engineers and the maintaince team). And then...
--  "AI" was seen as seperate to SE. And then...
+-  "AI" was seen as separate to SE. And then...
 
 
 See other trends, below:
@@ -87,12 +87,12 @@ American Vol. 237, No. 3 (September 1977), pp. 230-245
 
 <img width="680" alt="image" src="https://user-images.githubusercontent.com/29195/129641843-1cb3cead-6aa8-4b4f-9bd1-69d8fa617a8d.png">
 
-"The user makes his primary input through a typewriterlike keyboard
-and a pointing device called a moise which controls the position
+"The user makes his primary input through a typewriter like keyboard
+and a pointing device called a mouse which controls the position
 of an arrow on the screen."
 
-"WINDOWS" dislay frames within the  larger display screen, emable
-the user or organie  and  edit information at several levesl  of
+"WINDOWS" display frames within the  larger display screen, enabling
+the user to organize  and  edit information at several levels  of
 refinement.
 
 <br clear=all>
@@ -130,7 +130,9 @@ The age is (myth)misinformation. Information, weaponized.
 
 ## 2020: AI
 
-AI, autonomous vechicles.
+AI 
+
+Autonomous vehicles.
 
 ?? Blockchain
 
