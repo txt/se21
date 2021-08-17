@@ -22,7 +22,8 @@
 ## Working Steps...
   - Step 1: Please direct to the following link: https://github.com/bhermann/DoR/blob/main/workflow/training.md
   - Step 2: Read the training material.
-  - Step 3: Skim the four papers listed in that training document. 
+  - Step 3: Skim the four papers listed in that training document.
+    **(Warning: It may cost you one hour to skim the first paper since it's your first time to do this task. The skimming time of subsequent papers will reduce to 15-20 minutes after you got familiar with this task)**
   - Step 4: Record the reuse you identified in a .csv file with following format:
     | gh_id |  paper_doi  | reuse_type |       comment      | citation_number |  reused_doi  | alt_url | page_num |
     |-------|-------------|------------|--------------------|-----------------|--------------|---------|----------|
