@@ -33,11 +33,18 @@ of years of prior engineering.
 ## 1960s: Scaling Up Process
 
 
-The Mother of All Demos (warning: long) [about](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos) :: [video](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+1960: The mother of all abstractions (warning: amazing): [about](http://www.paulgraham.com/rootsoflisp.html) :: [in python](https://norvig.com/lispy.html)
 
-The mother of all abstractions (warning: amazing): [about](http://www.paulgraham.com/rootsoflisp.html) [in python](https://norvig.com/lispy.html)
+-  "As computers have grown more powerful, 
+   the new languages being developed have been moving steadily toward the 'Lisp' model. 
+   A popular recipe for new programming languages in the past 20 years has been to take the 'C; model of computing and add to it, piecemeal, 
+   parts taken from the 'Lisp' model, like runtime typing and garbage collection."   
+   -- Paul Graham
 
-<a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">Mythical Man (sic) Month</a>
+1968: The Mother of All Demos (warning: long) [about](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos) :: [video](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+
+See also: <a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">Mythical Man (sic) Month</a>
 
 
 <img align=left width=500
