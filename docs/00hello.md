@@ -15,10 +15,22 @@
 
 # History
 
-Warning the following timeline might be wrong 
+
+Once apon a time:
+
+-  "users" and "requirements" were considerd to be outside of the scope of SE. And then..
+- "compiling" was considered not safe practice for programmers. And then...
+-  "testing" was seen as "someone else's problem" (the test team). And then...
+-  "operations" was seen as "someone else's problem" (the field engineers and the maintaince team). And then...
+-  "AI" was seen as seperate to SE. And then...
+
+
+See other trends, below:
+
+- Warning the following timeline might be wrong 
 &plusmn; 5 years.
-And if some trend is  big  in one decade,
-then you know that was the result
+- Also if some trend is  big  in one decade,
+  - then you know that was the result
 of years of prior engineering.
 
 
