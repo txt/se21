@@ -13,4 +13,29 @@
 <br>
 <hr>
 
-TBD
+# Homework 3: Check on the Real Package (Due Tuesday, Sept. 7th)
+
+
+Same as the Homework 2, you will select another package which has been skimmed before by another student, and do the same thing. Cross-checking is a good way to maintain the reliability of the data labelled by real people.
+  
+- Register one of the packages that worked by another student before
+- Skim the papers in that package
+- Find reused works in those papers
+- Submit the reuse report in the required format just like in HW 1
+
+## What to do
+Go to the central spreadsheet XXX.
+  
+Find the packet number (wp-XX) you have been assigned to.
+  
+Grab your packet from the [DOR project](https://github.com/bhermann/DoR/tree/main/workflow/todo) 
+  
+Find and report reuse.
+  
+## What to submit
+
+Prepare your DOR report in the required format (see the [sample csv](https://github.com/bhermann/DoR/blob/main/workflow/results-sample.csv))
+
+Create your own GitHub repo, name your report csv file **wp-XX-results.csv** (where XX refers to the work package id like "ae"), upload your report.
+
+Paste the link to the central spreadsheet under the column `link to result`.
