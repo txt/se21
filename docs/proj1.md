@@ -106,10 +106,10 @@ Total score:
 || Use of syntax checkers. |config files iin  GH showing this checker's config  ||
 || Extensive use of syntax checkers. |issue reports showing your team fixing errors found in this way||
 || Use of code coverage |config files in GH||
-|| Extensive use of code coverage |ssue reports showing you  team fixing errors found  in this  way||
+|| Extensive use of code coverage |issue reports showing you  team fixing errors found  in this  way||
 || other automated analysis tools|||
 || Extensive use of  other automated analysis tools|ssue reports showing you  team fixing errors found  in this  way||
-|| test cases exist|||
+|| test cases exist|and those test cases are more than 30% of the  code base||
 || test cases are routinely executed|||
 | consensus-oriented model| the files CONTRIBUTING.md and CODEOFCONDUCT.md has have multiple edits by multiple people|||
 | | the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|||
