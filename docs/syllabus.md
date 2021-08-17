@@ -15,12 +15,9 @@
 
 # Syllabus
  
-
 CSC 510-001 (1962)      
 TuTh 3:00PM - 4:15PM     
-01103 James B Hunt Jr Centenni
-
-
+01103 James B Hunt Jr Bld.
 
 ## Overview
 
@@ -45,12 +42,14 @@ In this subject, students will be taught the start of the art in how to:
   -  [Software Engineering: A Practitioner's Approach, 8th International edition](https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126/ref=sr_1_1?dchild=1&keywords=Software+Engineering%3A+A+Practitioner%27s+Approach&qid=1596502362&sr=8-1)
 by Roger Pressman 
 
-### Group Slack group
+### Class Discord Group
 
 It is each student's responsibility to join the class Discord  group:
 
-+ Students are strongly encouraged to contribute their questions and answers to that shared resource.
-+ Note that, for communication of a more private nature, contact the lecturer on the email shown below.
++ Students are strongly encouraged to contribute their 
+  questions and answers to that shared resource.
++ Note that, for communication of a more private nature, 
+  contact the lecturer on the email shown below.
 
 All class communication from staff to students will be via this Discord group.
 
@@ -58,38 +57,36 @@ All class communication from staff to students will be via this Discord group.
 
 Grades come from 
 - 6 homeworks
+  - Two of which are 2 "lab sessions" where students can
+    use other  students to test their software.
 - 3 projects, 
-- 2 "lab sessions" where students use users to test software
 - 1 mid-session exam 
-- Final "exam"  is a take home essay (on ethics). Details to be posted by end September.
+- Final "exam"  is a take home essay (on ethics). 
+  Details to be posted by end September.
   Feel free to submit early.
 
-Exams and essays are done individually. Everything else is done in groups of 4+. For group information, please see
-https://docs.google.com/spreadsheets/d/1gKkaPaiqHUqHDSdliHuL8Wj-cPtq8FRpSSdqihR0Oc4/edit#gid=0
+Exams and essays are done individually. Everything else is done in  
+<a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups of 4+</a>.
 
 - Homeworks are small tasks 
   - graded 0 (for no submission), 1 (for "please try again") and 2 for "good".
-  - no late penalties
   - may be submitted multiple times
 - Projects comprise three  large tasks  (groups of 5 people, working in public Github repos-- not NCSU GH):
-  - Starting with 26 tasks in project1, we'll focus in on the best half, then the best quarter, for
+  - Starting with 40 tasks in project1, we'll focus in on the best half, then the best quarter, for
     project2 and project3
-    - Two bonus marks if other people jump to your task.i for their task.i+1 work
+    - **Two bonus marks** if other people jump to your task.i for their task.i+1 work
   - Project1: you'll start some task
-  - Project2: you'll finish someone else's task (thereby learning the important of documentation, 
+  - Project2, Project2: you'll finish someone else's task (thereby learning the important of documentation, 
     design purity, regression tests, etc).
-  - Project3: you'll be judging the success of  other people's code 
   - In the above you can get, at max 6 bonus marks:
     - Proj1 is graded via the week6 deliverable list 1
       - And if your project survives into Proj2, you get 2 bonus marks
     - Proj2 is graded via the week12 deliverable list 2
-      - And if your project from proj1 or proj2 survives into Proj3, you get 2 bonus marks
-    - Proj3 is graded via the report of the week14 labs (due last day of class)
-      - And if the class votes your proj1,proj2 as  "best", they get two bonus marks.
+      - And if your project from proj2 survives into Proj3, you get 2 bonus marks
+    - Proj3 is graded via a  report that your peers will review.
+      - And if the class votes your proj3 as  "best", they get two bonus marks.
 - To support the lab work
   - Students get 10 marks for participating (\*) in other project's labs
-  - The real lab session will be in week14
-    - And we'll do a practice round in week3.
 
 (\*) And by "participate" we mean that students need to attend  lab sessions organized by other groups.
 This means you will be collecting lab data from your peers. This also means you are now the guardians of that private data. 
@@ -102,6 +99,19 @@ You will lose marks if that data collection violates the following three rights:
 | The **right to be forgotten**| Any one you collect data from has the right to require their data deleted from your study. So keep anonymous ids for everyone, keep a mapping table real name to anonymous (outside of Github).|
 
 ### Grades
+
+|group |mark   | notes                                   |     
+|------|-------|-----------------------------------------|
+|homework      | 2 marks \*3  | hw1,2,3  : finding the state of the art |
+|      | 2 marks      | hw4: topic tbd        |
+|      | 2 marks \*2  | hw5,6  : user studies |
+|------|-------|-----------------------------------------|
+|exam |  20 marks     | mid-term       |
+|     |  20 marks     | final         |
+|------|-------|-----------------------------------------|
+|project | 16 marks \*3 | project1,2,3  |
+| 2 marks \*3  | bonus marks for project 1,2,3|
+|------|-------|-----------------------------------------|
  
 With the final grades, the following grade scale will be used: 
 
@@ -111,28 +121,6 @@ With the final grades, the following grade scale will be used:
      D+ (67-69),   D (63-66),   D-(60-62)
      F (below 60).
 
-### Timetable
-
-|week  |start| hw| proj |lab|exam|essay|spot<br>quiz|  notes                            | deliverable 2 be inspected   |
-|------|-----|----|-----|---|----|-----|----|-----------------------------------|------------------------------|
-|1 |Aug10    |    |     |   |    |     ||proj1: start 26 projects          |                              |
-|2 |Aug17    | 2  |     |   |    |     ||hw: GH set up                     | GH with cool structure       |
-|3 |Aug24    | 2  |     | 5 |    |     ||hw: Practice run for week14 trials|  attendance tokens           |
-|4 |Aug31    | 2  |     |   |    |     ||hw: report on lab                | report on week3 lab sessions  |
-|5| Sept7    |    |     |   |    |     ||                                  |   trial run on deliverable list           |
-|6 |Sept14   | 2  |     |   |    |     ||hw: "advertisement" for project   | 3 minute video               |
-|7 |Sept21   |    | 10+2|   |    |     ||proj2: 26 to 2\*13 projects        |  deliverable list1           |
-|8| Sept28   | 2  |     |   |    |     ||hw: issues review                 |  issue report on w6 deliverable |     
-|9| Oct5     |    |     |   | 20 |     ||exam: take-home mid-term          | submitted exam               | 
-|10| Oct12   |    |     |   |    |     ||   |                              |
-|11| Oct19   |  2 |     |   |    |     ||hw: "advertisement" for project   | 3 minute video               |
-|12| Oct26   |    | 20+2|   |    |     ||proj3: 2\*13 projects to 4\*6 tasks| deliverable list2<br>(includes a test plan) |
-|13| Nov2    |    |     |   |    |                                   |                              |
-|14| Nov9    |    |     |  5|    |     ||proj3: lab trials                | attendance tokens            |
-|14| Nov13   |    |10+2 |   |    |     ||proj3: report on lab             | report on week14 labs |
-|15| Nov20   |    |     |   |    | 12  || essay                            | essay. 1200 words           |
-||**TOTALS** |**12**|**40+6**|**10**|**20**|**12**|**6**||                 |
-
 ## Staff
 
 ### Lecturer
@@ -140,10 +128,11 @@ With the final grades, the following grade scale will be used:
 Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=200>
 
 + Github id: timm
-+ Slack name: timm
-+ Office Hours: Thursday, 12:00-2:30 and by request
++ Discrod name: timm
++ Office Hours: Tuesday, 12:00-2:00 and by request
 + E-Mail: timm@ieee.org
-  + Only use this email for private matters. All other class communication should be via the class news group,    listed below.
+  + Only use this email for private matters. A
+     ll other class communication should be via the class news group,    listed below.
 + Phone: 304-376-2859
        + **Do not use** this number, except in the most dire of 
           circumstances (best way to contact me is via email).
@@ -156,9 +145,19 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 Andre Motta
 
 + Github id:  andre-motta
-+ Slack name: Andre Motta
++ Discord name: SargeHawk#1591
 + E-mail: alustos@ncsu.edu
-+ Office hours: Wed 12pm-2:30pm and by email request
+
+<br clear=all>
+
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/41660376/89558051-b99e6380-d7e1-11ea-81f3-d8b4fac8aa32.jpg" align=right width=200>
+Kewen Peng
+
++ Github id:  
++ Discord  name:  Kewen
++ E-mail: kpeng@ncsu.edu
 
 <br clear=all>
 
@@ -168,11 +167,19 @@ Andre Motta
 Xiao Ling
 
 + Github id:  XiaoLing941212
-+ Slack name: Xiao Ling
++ Discord  name: Xiao
 + E-mail: xling4@ncsu.edu
-+ Office hours: Tue 10am-12:30pm and by email request
 
 <br clear=all>
+
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/41660376/89558051-b99e6380-d7e1-11ea-81f3-d8b4fac8aa32.jpg" align=right width=200>
+Weichen Shi
+
++ Github id:  XXX
++ Discord  name: YYY
++ E-mail: wshi6@ncsu.edu
 
 -------
 
@@ -181,17 +188,14 @@ Xiao Ling
 ### Attendance
 
  
-- Lectures are twice a week and tutorial sessions are 20 minutes, once every 2 weeks.
-- All meetings will be via Zoom. 
-- Attendance is extremely important for your learning
-experience in this class. 
-
-Lecture attendance will be scored by six one mark spot quizzes, run at random times,
-at some point 5 minutes after the start of the lecture. There will be no appeal,
-excuse for "excused" 
-[excused classes](https://policies.ncsu.edu/regulation/reg-02-20-03):
-
-- Anticipated absences:
+- Lectures are twice a week.
+- Tutorial sessions are optional, but please use our tutorial resources
+  to help you along.
+- Please make sure you experience the lectures (either live or watching
+  the recoding).
+- Aside from that, you have  to service all your homework, and prokect
+  commitments. It is very bad to be absent from your project except
+  for anticipated abseonces condonned by the univerisity:
      - Representing an official university function (e.g. athletics)
      - Required court attendance as certified by the Clerk of Court.
      - Students will be allowed a minimum of two excused absences per academic year for religious observances 
@@ -200,8 +204,9 @@ excuse for "excused"
      - Short-term illness or injury
      - Death or serious illnesses in the family when documented appropriately. 
 
-On top of that, Covid-related issues will, of course, also be excused (e.g. Difficulties in getting child care
-for the meeting times).
+On top of that, Covid-related issues will, of course, also be excused.
+
+(And no where on that list is "I have to go to a wedding in India".)
 
 ### Expected Workload
 
@@ -212,7 +217,7 @@ lecture meeting). Laboratory instruction is not included
 in this subject.
 
 Sometimes, the lecturer/tutor will require you to
-attend a review session, via Zoom, during their consultation
+attend a review session, during their consultation
 time. There, students may be asked to review code,
 concepts, or comment on the structure of the
 course. Those sessions are mandatory and failure to
@@ -285,7 +290,7 @@ at http://www.ncsu.edu/grad/handbook/index.php
 
 ### Late Assignments Policy
 
-Homeworks become late 1 month after after the dates listed above.  Late homeworks earn zero marks.
+Homeworks become late 2 weeks after after the dates listed above.  Late homeworks earn zero marks.
 
 For project deliverables, students will lose 1 mark per day for late submissions (weekend = 1 day).
 
@@ -374,8 +379,6 @@ Protect the Pack
 website (https://www.ncsu.edu/coronavirus/). The sections below provide expectations and conduct
 related to COVID-19 issues.
 
-- In the following,  there is text about "coming to class". Note that that text should be interpreted
-in the context of this class being **on-line**.
 
 ### Health and Participation in Class
 
