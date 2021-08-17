@@ -15,6 +15,13 @@
 
 # History
 
+Warning the following timeline might be wrong 
+&plusmn; 5 years.
+And if some trend is  big  in one decade,
+then you know that was the result
+of years of prior engineering.
+
+
 ## 1950s: Working it out from  Scratch
 
  <a href="https://www.amazon.com/dp/B005IEGK5C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">Turing's Cathederal</a>
@@ -90,6 +97,19 @@ refinement.
 
 Welcome to the [attention economy](https://en.wikipedia.org/wiki/Attention_economy).
 
+The age is (myth)misinformation. Information, weaponized.
+
 ## 2020: AI
 
-AI
+AI, autonomous vechicles.
+
+?? Blockchain
+
+- Ezra Klein, NY Times,  Aug 12, 2021:
+  - If the original internet let you easily copy information, 
+    the next internet will let you easily trade ownership of digital goods. 
+  - Crypto lets you make digital goods scarce, which increases their value; 
+    it lets you prove ownership, which allows you to buy and sell them; 
+    and it makes digital identities verifiable, as that’s merely information you own
+  - Together, they unlock the potential for a true economy for digital goods, 
+    where creators actually get rewarded for what they make. I will admit to some skepticism that this is how it’ll play out, as many of the financiers funding crypto also founded and sit on the boards of the companies that set the terms of today’s internet, but we’ll see.
