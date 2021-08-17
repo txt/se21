@@ -13,7 +13,7 @@
 <br>
 <hr>
 
-# Homework 2: Practice on a real packet (Due Tuesday, Aug.31st)
+# Homework 2: Practice on a real packet (Due Thursday, Sept.2nd)
 
 
 Following the previous assignment, in this one we will:
