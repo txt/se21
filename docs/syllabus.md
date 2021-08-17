@@ -103,15 +103,12 @@ You will lose marks if that data collection violates the following three rights:
 |group |mark   | notes                                   |     
 |------|-------|-----------------------------------------|
 |homework      | 2 marks \*3  | hw1,2,3  : finding the state of the art |
-|      | 2 marks      | hw4: topic tbd        |
-|      | 2 marks \*2  | hw5,6  : user studies |
-|------|-------|-----------------------------------------|
-|exam |  20 marks     | mid-term       |
-|     |  20 marks     | final         |
-|------|-------|-----------------------------------------|
+|         | 2 marks      | hw4: topic tbd        |
+|        | 2 marks \*2  | hw5,6  : user studies |
+|exam    |  20 marks     | mid-term       |
+|        |  20 marks     | final         |
 |project | 16 marks \*3 | project1,2,3  |
-| 2 marks \*3  | bonus marks for project 1,2,3|
-|------|-------|-----------------------------------------|
+|        |2 marks \*3  | bonus marks for project 1,2,3|
  
 With the final grades, the following grade scale will be used: 
 
