@@ -13,4 +13,28 @@
 <br>
 <hr>
 
-TBD
+# Homework 2: Practice on a real packet (Due Tuesday, Aug.31th)
+
+
+Following the previous assignment, in this one we will:
+  
+- Read some most recent cutting-edge papers in the SE community
+- Find reused works in those papers
+- Submit the reuse report in the required format just like in HW 1
+
+## What to do
+Go to the central spreadsheet XXX.
+  
+Find the packet number (wp-XX) you have been assigned to.
+  
+Grab your packet from the [DOR project](https://github.com/bhermann/DoR/tree/main/workflow/todo) 
+  
+Find and report reuse.
+  
+## What to submit
+
+Prepare your DOR report in the required format (see the [sample csv](https://github.com/bhermann/DoR/blob/main/workflow/results-sample.csv))
+
+Create your own GitHub repo, name your report csv file **wp-XX-results.csv** (where XX refers to the work package id like "ae"), upload your report.
+
+Paste the link to the central spreadsheet under the column `link to result`.
