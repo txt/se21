@@ -13,8 +13,26 @@
 <br>
 <hr>
 
-# Assignment 1
+# Assignment 1: Task Training (Due Tuesday, Aug. 24th)
+  This document contains detailed descriptions on assignment 1. The purpose of this homework is to introduce the reuse in software engineering.
+
+## Before You Start... Be Familiar with Reuse 
+  Before you start your first assignment, please make sure you have already understand what is reuse, and the reuse type . https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md contains the detailed description on the types of reuse, as well as some tips on identifying reuse.
   
-This document contains detailed descriptions on assignment 1. The purpose of this homework is to let students be familiar with the artifacts reuse in software engineering domain.
+## Working Steps...
+  - Step 1: Please direct to the following link: https://github.com/bhermann/DoR/blob/main/workflow/training.md
+  - Step 2: Read the training material.
+  - Step 3: Skim the four papers listed in that training document. 
+  - Step 4: Record the reuse you identified in a .csv file with following format:
+    | gh_id |  paper_doi  | reuse_type |       comment      | citation_number |  reused_doi  | alt_url | page_num |
+    |-------|-------------|------------|--------------------|-----------------|--------------|---------|----------|
+    | xxxxx | https://... |   method   | replication of ... |        [1]      |  https://... |         |    150   |
 
-
+## Submission...
+  Please submit your result .csv file to Moodle with following file name: **[First Name]-[Last Name]_HW1.csv** (e.g. Xiao-Ling_HW1.csv)
+  
+## Final Step...
+  Now you can compare your results with the true labels: https://github.com/bhermann/DoR/blob/main/workflow/results-sample.csv . After the comparison, please think about the missing or extra entries you made, and be ready for the future assignments.
+  
+  Please notice that the correctness will not affect your assignment score. This assignment is just for training purpose. So don't copy paste the correct entries into your result sheet.
+  
