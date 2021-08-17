@@ -170,6 +170,7 @@ Xiao Ling
 
 + Github id:  XiaoLing941212
 + Discord  name: Xiao
++ Office Hours: Tuesday, 13:00-14:30
 + E-mail: xling4@ncsu.edu
 
 <br clear=all>
