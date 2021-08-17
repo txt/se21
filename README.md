@@ -1,12 +1,18 @@
-<a name=top>
-       
+<a name=top><p>&nbsp;</p>
+<a  href="https://git.io/sin21"><img width=1000 src="https://github.com/txt/sin21/blob/main/docs/img/sinless.png"></a>       
 
+Problem dont know how to teach ethics (yet). so one of your delvierables at ene dof semsester is a syllaus for a better version of this ssubject
 
-# Sinless  Software Engineering
+XXX several secretet to sinless
+- suvodep: may metrics eman the same
+- EU, Msoft, IEEE: often come down to transparacey
+  - and we can tidy up decades of work on that. abduction. keys (minimal environments). simpler data mining
+- HPO for mdoel generation
 
 <img align=right width=400 src="https://media.istockphoto.com/photos/webpage-under-construction-picture-id592021466">
   
-csc591/791, Fall 2021, NC State
+Todo: balancing, keys, rule-based programming
+
 
        -=-        “A saint is not someone who never sins, 
     (\  _  /)      but one who sins less and less frequently."
@@ -19,7 +25,7 @@ csc591/791, Fall 2021, NC State
 Your task:
 
 - Build an  AI. Build it better 
-- Better = faster, generalizable, simpler, explicable, fairer
+- Better = faster, generalizable, simpler, explicable, fairer, using less data
 
 When lawyers and politicians cannot keep up with technical innovations,
 it is up to us technologists to deliberately sin less. When we might
