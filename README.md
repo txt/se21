@@ -1,5 +1,5 @@
 <a name=top><p>&nbsp;</p>
-<a  href="https://git.io/sin21"><img width=1000 src="https://github.com/txt/sin21/blob/main/docs/img/sinless.png"></a>       
+<a  href="https://git.io/sin21"><img  src="https://github.com/txt/sin21/blob/main/docs/img/sin1.png"></a>       
 
 Problem dont know how to teach ethics (yet). so one of your delvierables at ene dof semsester is a syllaus for a better version of this ssubject
 
