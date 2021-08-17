@@ -79,13 +79,16 @@ alt="picocli" height="150px"></a></p>
 [![Follow picocli on StackShare](https://img.shields.io/badge/Follow%20on-StackShare-blue.svg?logo=stackshare&style=flat)](https://stackshare.io/picocli)
 
 
-(And if you want more badges, see [shields.io](https://www.shields.io).
+What do these badges mean:
+
+<img src="https://miro.medium.com/max/1400/1*CQUOv5hCe8yMEu0t43GhIg.png">
+
+(And if you want more badges, see [shields.io](https://www.shields.io)).
 
 What are the features of  the  following repos that make them "good"?
 
 - http://docopt.org
 - https://github.com/harshitpatel96/GITS
-- https://github.com/JuliaImages/ImageInTerminal.jl
 - https://github.com/JuliaImages/ImageInTerminal.jl
 - https://github.com/daniruiz/dotfiles
 - https://github.com/chalk/chalk
