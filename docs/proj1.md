@@ -75,23 +75,23 @@ Total score:
 
 |What | Notes|evidence|score 0..4<br>(0=no, 2=ok, 4=wow!)|
 |-----|------|------|--------|
-|Misc | Group members attended group sessions|||
+|Misc | Group members attended group sessions|show meeting logs||
 |Distrbuted dev model: | decisions made by unanmyous vote||
 || group meetings had a round robin speaking order||
-|| group meetings had a moderator that managed the round robin||
+|| group meetings had a moderator that managed the round robin| meeting  logs list the moderator||
 || group meeting moderator rotated among  the group||
-|| code conforms to some packaging standard||
-|| code has can be downloaded from some standard package manager||
-| |workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)|||
-|| Number of commits|||
-|| Number of commits: by different people|||
-|| Issues reports: there are many|||
-||  issues are being  closed|||
-|| License: exists|||
-|| DOI badge: exists |||
-||Docs: doco generated , format not ugly |||
+|| code conforms to some packaging standard|github issue  reports with a checklist of package features, checked off||
+|| code has can be downloaded from some standard package manager|url given||
+| |workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)|evidence  in GH||
+|| Number of commits|in GH||
+|| Number of commits: by different people|in GH||
+|| Issues reports: there are **many**|||
+||  issues are being  closed|evidence in GH||
+|| License: exists|in GH||
+|| DOI badge: exists |in GH||
+||Docs: doco generated , format not ugly |in GH||
 ||Docs: what: point descriptions of each class/function (in isolation) |||
-||Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|||
+||Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|doc page entries||
 ||Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|||
 ||Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|||
 || (hard) code conforms to some known patterns ||
@@ -99,16 +99,16 @@ Total score:
 || Extensive use of version control tools |||
 || Repo has an up-to-date requirements.txt file|||
 || Repo does not have "ignore" files.|||
-||Use of  style checkers |||
-||Extensive Use of  style checkers |||
-|| Use of code  formatters. |||
-|| Extensive Use of code  formatters. |||
-|| Use of syntax checkers. |||
-|| Extensive use of syntax checkers. |||
-|| Use of code coverage |||
-|| Extensive use of code coverage |||
+||Use of  style checkers |config files in GH showing your config||
+||Extensive Use of  style checkers |issue reports showing team fixing errors found  in  this way||
+|| Use of code  formatters. |config files in GH showing your this formatter's  config||
+|| Extensive Use of code  formatters. |issue  reports showing team fixing errors found in  this  way||
+|| Use of syntax checkers. |config files iin  GH showing this checker's config  ||
+|| Extensive use of syntax checkers. |issue reports showing your team fixing errors found in this way||
+|| Use of code coverage |config files in GH||
+|| Extensive use of code coverage |ssue reports showing you  team fixing errors found  in this  way||
 || other automated analysis tools|||
-|| Extensive use of  other automated analysis tools|||
+|| Extensive use of  other automated analysis tools|ssue reports showing you  team fixing errors found  in this  way||
 || test cases exist|||
 || test cases are routinely executed|||
 | consensus-oriented model| the files CONTRIBUTING.md and CODEOFCONDUCT.md has have multiple edits by multiple people|||
