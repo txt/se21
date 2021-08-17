@@ -129,7 +129,7 @@ See ["Timetable"](http://tiny.cc/se21) on  our home page.
 Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right width=200>
 
 + Github id: timm
-+ Discrod name: timm
++ Discord name: timm
 + Office Hours: Tuesday, 12:00-2:00 and by request
 + E-Mail: timm@ieee.org
   + Only use this email for private matters. A
@@ -143,10 +143,11 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 ### Tutors
 
 <img src="http://ai4se.net/img/AndreMotta.jpg" align=right width=200>
-Andre Motta
+Andre Lustosa
 
 + Github id:  andre-motta
 + Discord name: SargeHawk#1591
++ Office Hours: Wednesday, 13:30-15:00
 + E-mail: alustos@ncsu.edu
 
 <br clear=all>
