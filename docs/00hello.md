@@ -15,13 +15,15 @@
 
 # History
 
-## 1950s
+## 1950s: Working it out from  Scratch
 
  <a href="https://www.amazon.com/dp/B005IEGK5C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">Turing's Cathederal</a>
 
 <img width=500 src="https://cdn.thenewstack.io/media/2020/10/8e6dde0b-maniac_memorytubes.jpg">
 
-## 1960s
+<br clear=all>
+
+## 1960s: Scaling Up Process
 
 <a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">Mythical Man (sic) Month</a>
 
@@ -40,7 +42,9 @@ scheduling a software task:
 
 Pay attention: half of development is testing.
 
-## 1970s 
+<br clear=all>
+
+## 1970s: Personnel
 
 Microelectronics and the Personal Computer Alan C. Kay Scientific
 American Vol. 237, No. 3 (September 1977), pp. 230-245
@@ -55,22 +59,37 @@ of an arrow on the screen."
 the user or organie  and  edit information at several levesl  of
 refinement.
 
-## 1980s
+<br clear=all>
+
+## 1980s: Scaling up the Hardware
 
 <a href="https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)"> Halt and Catch Fire</a>
 
-## 1990s
+<br clear=all>
 
-Internet Bubble, Internet, Open Source
+## 1990s: Connections (Welcome to the Internet)
 
-## 2000
+- Internet, 
+- Open Source; e.g. see 
+  [Shares of Linux Firm Red Hat More Than Triple After IPO](https://www.wsj.com/articles/SB934376738897331391)
+- [Internet Bubble](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/dotcom-bubble/):
+  1995 to 2001, massive price rises in Internet  stocks. Then...
+  - "The bursting of the bubble caused market panic through massive 
+      sell-offs of dotcom company stocks, driving their values further down, 
+    and by 2002, investor losses were estimated at around $5 trillion." 
+
+<br clear=all>
+
+## 2000: Social
 
 <a href="https://en.wikipedia.org/wiki/The_Social_Network">The Social Network</a>
 
-## 2010
+<br clear=all>
 
-Mobile
+## 2010: Mobile
 
-## 2020
+Welcome to the [attention economy](https://en.wikipedia.org/wiki/Attention_economy).
 
-What will you make it?
+## 2020: AI
+
+AI
