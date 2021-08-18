@@ -158,20 +158,19 @@ Autonomous vehicles.
 ### Q: Which language is best?
 
 A: none of them.
-
-<img width=900 src="http://github.com/txt/se20/blob/master/etc/img/tiobe.png">
+<img width=900 src="https://github.com/txt/se20/blob/master/etc/img/tiobe.png">
 
 And the language you use next is probably not the one you are using now:
 
 - Empirical Analysis of Programming Language Adoption Leo A. Meyerovich, Ariel Rabkin, OOPSLA ’13.
 
-<img width=700 src="http://github.com/txt/se20/blob/master/etc/img/nextLanguage.png">
+<img width=700 src="https://github.com/txt/se20/blob/master/etc/img/nextLanguage.png">
 
 And even if you are working on some language/tool now, if your work changes, that
 could change too
 
 <img width=700 
- src="http://github.com/txt/se20/blob/master/etc/img/groups.png">
+ src="https://github.com/txt/se20/blob/master/etc/img/groups.png">
 
 
 
