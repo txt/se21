@@ -15,6 +15,15 @@
 
 # Project 1 Rubric
 
+Prepare a  markdown  with **three** columns:
+
+- Column1 has all the following points PLUS all the  points from the
+  [Software Sustainability Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf0ccsVdN-nXJCHLluJ-hANZlp8rDKgprJa0oTYiLZSDxh3DA/viewform).
+- Column2  is your self-assessment. For each items, score yourself zero (none), one  (a litte),  two (somewhat), three (a lot).
+- Column3 is for any links you  are adding to support your claim in column two.
+- At the top,  show the sum of column2,
+
+
 | Notes|evidence|
 |-----|---------|
 |workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
