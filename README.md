@@ -60,14 +60,14 @@
  
 </td>
 <td valign=top>
-Aug 26, Homework 1<br>
-Sept 2, Homework 2 <br>
-Sept 9, Homework 3<br>
+Aug 26, [Homework 1](docs/hw1.md)<br>
+Sept 2, [Homework 2](docs/hw2.md) <br>
+Sept 9, [Homework 3](docs/hw3.md)<br>
 Tbd,  Homework 4<br>
 Tbd,  Homework 5<br>
 Tbd,  Homework 6<br>
 Sept 30, <a href="docs/proj1.md">Project 1</a><br>
-Oct 5, Mid-term<br>
+Oct 12, Mid-term<br>
 Nov 4, Project 2<br>
 Nov 29, Project 3<br>
 Dec 3, "Exam" 

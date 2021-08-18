@@ -1,30 +1,17 @@
-<a name=top>
-<a href="http://tiny.cc/se21"><img  width=700
-  src="https://raw.githubusercontent.com/txt/se21/master/docs/img/femse.png"></a>
-<hr>
-<p>
-&nbsp;<a href="https://tiny.cc/se21">home</a> ::
-<a href="https://github.com/txt/se21/blob/master/docs/syllabus.md#top">syllabus</a> ::
-<a href="https://github.com/txt/se21/blob/master/docs/syllabus.md#timetable">timetable</a> ::
-<a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups</a> ::
-<a href="https://moodle-courses2122.wolfware.ncsu.edu/course/view.php?id=3211">moodle</a> ::
-<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=a5998f03-01df-4c6c-91c1-ad80003f3c7c">video</a> ::
-<a href="https://github.com/txt/se21/blob/master/LICENSE.md#top">&copy; 2021</a>
-<br>
-<hr>
+[home]{/README.md)
 
 # Syllabus
- 
-CSC 510-001 (1962)      
-TuTh 3:00PM - 4:15PM     
-01103 James B Hunt Jr Bld.
+
+CSC 591-066 (11983)     
+CSC 791-066 (11984)     
+Wed 3:00PM - 5:45PM   
 
 ## Overview
 
 ### Topics
 
 This is an _advanced graduate_ class. 
-In this subject, students will be taught the start of the art in how to:
+In this subject, students will be taught about etical SE the start of the art in how to:
 
 - Write "good" software;
   - Working in teams, deliver a systems of acceptable quality within eh available resources;  
