@@ -60,9 +60,9 @@
  
 </td>
 <td valign=top>
-Aug 26, [Homework 1](docs/hw1.md)<br>
-Sept 2, [Homework 2](docs/hw2.md) <br>
-Sept 9, [Homework 3](docs/hw3.md)<br>
+Aug 26, <a href="docs/hw1.md">Homework 1</a><br>
+Sept 2, <a href="docs/hw2.md">Homework 2</a><br>
+Sept 9, <a href="docs/hw3.md">Homework 3</a><br>
 Tbd,  Homework 4<br>
 Tbd,  Homework 5<br>
 Tbd,  Homework 6<br>
