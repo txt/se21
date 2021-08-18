@@ -2,9 +2,9 @@
 
 # Syllabus
 
-CSC 591-066 (11983)     
-CSC 791-066 (11984)     
-Wed 3:00PM - 5:45PM   
+CSC 510-001 (1962)   
+TuTh 3:00PM - 4:15PM    
+01103 James B Hunt Jr Centenniel   
 
 ## Overview
 
