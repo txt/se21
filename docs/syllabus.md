@@ -160,7 +160,7 @@ Kewen Peng
 
 + Github id: kpeng2019
 + Discord  name:  Kewen#1729
-+ Office Hours: Thursday, 13:30-15:00 
++ Office Hours: Thursday, 10:00-11:30 
 + Location: Zoom - https://ncsu.zoom.us/j/4801316040
 + E-mail: kpeng@ncsu.edu
 
