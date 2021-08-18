@@ -13,8 +13,9 @@
 <br>
 <hr>
 
-# History
+# SE: the times they are a changin'
 
+_Some notes on the past and future of SE_
 
 Once upon a time:
 
