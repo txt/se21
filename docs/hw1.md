@@ -18,6 +18,13 @@
   This document contains detailed descriptions on assignment 1. The purpose of this homework is to introduce the reuse in software engineering.
 
 ## Motivation
+Do you think that any one SE subect can teach you **all** about SE? If so then you clealy have  a very high opinion of faculty at NC State (and I
+thank you for that).
+
+<img align=left src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhbr.org%2F2016%2F03%2Flearning-to-learn&psig=AOvVaw1ZS4Q1wweS4FuzE1iYjmtC&ust=1629471605933000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOi5nvesvfICFQAAAAAdAAAAABAD" width=450>
+
+But,    the truth is, we cannot teach you it all. But we can teach you how you can lear, on an on-going basis, the parts of "it all" that
+   interest you.
 
 Understanding the current state of the art in software engineering  will be a challenge
 for the rest of your career. Using _reuse graphs_ (edges connected papers  back to what they base their work  on), it is possible
