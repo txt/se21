@@ -20,7 +20,7 @@
   
   This document contains detailed descriptions on assignment 1. The purpose of this homework is to introduce the reuse in software engineering.
 
-    <img align=right src="https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png" width=500> 
+<img align=right src="https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png" width=500> 
 
    
   
