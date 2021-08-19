@@ -13,14 +13,17 @@
 <br>
 <hr>
 
-  <img align=right src="https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png" width=500> 
 
-   
   
 # Homework 1: Task Training 
 
+  
   This document contains detailed descriptions on assignment 1. The purpose of this homework is to introduce the reuse in software engineering.
 
+    <img align=right src="https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png" width=500> 
+
+   
+  
 ## Motivation
 Do you think that any one SE subect can teach you **all** about SE? If so then you clealy have  a very high opinion of faculty at NC State (and I
 thank you for that).
