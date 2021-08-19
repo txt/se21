@@ -87,7 +87,7 @@ Exams and essays are done individually. Everything else is done in
     - Proj3 is graded via a  report that your peers will review.
       - And if the class votes your proj3 as  "best", they get two bonus marks.
 - To support the lab work
-  - Students get 10 marks for participating (\*) in other project's labs
+  - Students get 3 marks for participating (\*) in other project's labs
 
 (\*) And by "participate" we mean that students need to attend  lab sessions organized by other groups.
 This means you will be collecting lab data from your peers. This also means you are now the guardians of that private data. 
