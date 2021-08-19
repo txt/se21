@@ -25,12 +25,12 @@
    
   
 ## Motivation
-Do you think that any one SE subect can teach you **all** about SE? If so then you clealy have  a very high opinion of faculty at NC State (and I
+Do you think that any one SE subect can teach you **all** about SE? If so then you clearly have  a very high opinion of faculty at NC State (and I
 thank you for that).
 
 
 
-But,    the truth is, we cannot teach you it all. But we can teach you how you can lear, on an on-going basis, the parts of "it all" that
+But,    the truth is, we cannot teach you it all. But we can teach you how you can learn, on an on-going basis, the parts of "it all" that
    interest you.
 
   
