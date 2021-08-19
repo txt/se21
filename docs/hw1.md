@@ -21,7 +21,7 @@
 Do you think that any one SE subect can teach you **all** about SE? If so then you clealy have  a very high opinion of faculty at NC State (and I
 thank you for that).
 
-<img align=right src=https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png" width=450>
+<img align=right src="https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png" width=450>
 
    
 
@@ -51,7 +51,8 @@ of class is to:
   - Step 1: Please direct to the following link: https://github.com/bhermann/DoR/blob/main/workflow/training.md
   - Step 2: Read the training material.
   - Step 3: Skim the four papers listed in that training document.
-    **(Warning: It may cost you one hour to skim the first paper since it's your first time to do this task. The skimming time of subsequent papers will reduce to 15-20 minutes after you got familiar with this task)**
+    - **Skim**, looking just for the reused bits. Do not **read** everything (unlesss you want to spend hours and hours on each paper).
+    - **(Expectation Management: It may cost you one hour to skim the first paper since it's your first time to do this task. The skimming time of subsequent papers will reduce to 15-20 minutes after you got familiar with this task)**
   - Step 4: Record the reuse you identified in a .csv file with following format:
     | gh_id |  paper_doi  | reuse_type |       comment      | citation_number |  reused_doi  | alt_url | page_num |
     |-------|-------------|------------|--------------------|-----------------|--------------|---------|----------|
