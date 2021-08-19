@@ -13,6 +13,10 @@
 <br>
 <hr>
 
+  <img align=right src="https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png" 
+
+   
+  
 # Homework 1: Task Training 
 
   This document contains detailed descriptions on assignment 1. The purpose of this homework is to introduce the reuse in software engineering.
@@ -21,13 +25,16 @@
 Do you think that any one SE subect can teach you **all** about SE? If so then you clealy have  a very high opinion of faculty at NC State (and I
 thank you for that).
 
-<img align=right src="https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png" width=450>
 
-   
 
 But,    the truth is, we cannot teach you it all. But we can teach you how you can lear, on an on-going basis, the parts of "it all" that
    interest you.
 
+  <br clear=all>
+  
+  <img align=center src="https://user-images.githubusercontent.com/29195/130092877-2a113be2-dd22-4f7f-99f4-8b4b53715d72.png" width=700>
+  <br clear=all>
+  
 Understanding the current state of the art in software engineering  will be a challenge
 for the rest of your career. Using _reuse graphs_ (edges connected papers  back to what they base their work  on), it is possible
 for a community to find and maintain a shared understanding of
