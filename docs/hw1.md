@@ -13,7 +13,7 @@
 <br>
 <hr>
 
-  <img align=right src="https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png" 
+  <img align=right src="https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png"> 
 
    
   
@@ -30,15 +30,18 @@ thank you for that).
 But,    the truth is, we cannot teach you it all. But we can teach you how you can lear, on an on-going basis, the parts of "it all" that
    interest you.
 
-  <br clear=all>
-  
-  <img align=center src="https://user-images.githubusercontent.com/29195/130092877-2a113be2-dd22-4f7f-99f4-8b4b53715d72.png" width=700>
-  <br clear=all>
   
 Understanding the current state of the art in software engineering  will be a challenge
 for the rest of your career. Using _reuse graphs_ (edges connected papers  back to what they base their work  on), it is possible
 for a community to find and maintain a shared understanding of
 that state-of-the-art. 
+       
+       
+  <br clear=all>
+  
+  <a href="https://www.reuse-dept.org/"><img align=center src="https://user-images.githubusercontent.com/29195/130092877-2a113be2-dd22-4f7f-99f4-8b4b53715d72.png" width=700></a>
+  <br clear=all>
+  
 
 To demonstrate this, in our Fall’21 classes,
 we are leaving the second half of the lecture plan blank. We
