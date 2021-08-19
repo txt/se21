@@ -14,7 +14,26 @@
 <hr>
 
 # Homework 1: Task Training (Due Tuesday, Aug. 26th)
+
   This document contains detailed descriptions on assignment 1. The purpose of this homework is to introduce the reuse in software engineering.
+
+## Motivation
+
+Understanding the current state of the art in software engineering  will be a challenge
+for the rest of your career. Using _reuse graphs_ (edges connected papers  back to what they base their work  on), it is possible
+for a community to find and maintain a shared understanding of
+that state-of-the-art. 
+
+To demonstrate this, in our Fall’21 classes,
+we are leaving the second half of the lecture plan blank. We
+will
+let students find and define what cutting edge techniques will be
+discussed there. To do so, their homework for theinitial three weeks
+of class is to:
+
+-  At first, learn this reuse graph approach by performing our standard “reuse graph 101”exercise. 
+- Then in a second week, read some papers to find their reuse (if any); 
+- Finally, in a third week, they should check someoneelse’s reuse findings from other papers
 
 ## Before You Start... Be Familiar with Reuse 
   Before you start your first assignment, please make sure you have already understand what is reuse, and the reuse type . https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md contains the detailed description on the types of reuse, as well as some tips on identifying reuse.
