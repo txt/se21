@@ -42,7 +42,7 @@ that state-of-the-art.
        
   <br clear=all>
   
-  <a align=center href="https://www.reuse-dept.org/"><img align=center src="https://user-images.githubusercontent.com/29195/130092877-2a113be2-dd22-4f7f-99f4-8b4b53715d72.png" width=700></a>
+  <p align=center><a  ef="https://www.reuse-dept.org/"><img align=center src="https://user-images.githubusercontent.com/29195/130092877-2a113be2-dd22-4f7f-99f4-8b4b53715d72.png" width=700></a></p>
   <br clear=all>
   
 
