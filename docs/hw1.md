@@ -13,7 +13,7 @@
 <br>
 <hr>
 
-# Homework 1: Task Training (Due Tuesday, Aug. 26th)
+# Homework 1: Task Training 
 
   This document contains detailed descriptions on assignment 1. The purpose of this homework is to introduce the reuse in software engineering.
 
@@ -47,6 +47,8 @@ of class is to:
     | gh_id |  paper_doi  | reuse_type |       comment      | citation_number |  reused_doi  | alt_url | page_num |
     |-------|-------------|------------|--------------------|-----------------|--------------|---------|----------|
     | xxxxx | https://... |   method   | replication of ... |        [1]      |  https://... |         |    150   |
+
+## Hints
 
 ## Submission...
   Please submit your result .csv file to Moodle with following file name: **[First Name]-[Last Name]_HW1.csv** (e.g. Xiao-Ling_HW1.csv)
