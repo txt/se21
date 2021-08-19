@@ -18,20 +18,20 @@
 
 CSC 510-001 (1962)   
 TuTh 3:00PM - 4:15PM    
-01103 James B Hunt Jr Centenniel   
+01103 James B Hunt Jr Centennial   
 
 ## Overview
 
 ### Topics
 
 This is an _advanced graduate_ class. 
-In this subject, students will be taught about etical SE the start of the art in how to:
+In this subject, students will be taught about ethical SE the start of the art in how to:
 
 - Write "good" software;
-  - Working in teams, deliver a systems of acceptable quality within eh available resources;  
+  - Working in teams, deliver a systems of acceptable quality within the available resources;  
   - That  someone else would want to use;
   - That is demonstrable _good_ (compared to something else).
-- Learn the  state of thea rt in SE
+- Learn the  state of the art in SE
 
 ### Prerequisites
 
