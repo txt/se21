@@ -21,7 +21,9 @@
 Do you think that any one SE subect can teach you **all** about SE? If so then you clealy have  a very high opinion of faculty at NC State (and I
 thank you for that).
 
-<img align=left src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhbr.org%2F2016%2F03%2Flearning-to-learn&psig=AOvVaw1ZS4Q1wweS4FuzE1iYjmtC&ust=1629471605933000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOi5nvesvfICFQAAAAAdAAAAABAD" width=450>
+<img align=right src=https://user-images.githubusercontent.com/29195/130092394-79518a84-0d7e-4763-9ef5-80f915512468.png" width=450>
+
+   
 
 But,    the truth is, we cannot teach you it all. But we can teach you how you can lear, on an on-going basis, the parts of "it all" that
    interest you.
