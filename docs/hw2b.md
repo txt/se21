@@ -1,4 +1,21 @@
-# Howework: 1: Write a "good" Github Repo
+<a name=top>
+<a href="http://tiny.cc/se21"><img  width=700
+  src="https://raw.githubusercontent.com/txt/se21/master/docs/img/femse.png"></a>
+<hr>
+<p>
+&nbsp;<a href="https://tiny.cc/se21">home</a> ::
+<a href="https://github.com/txt/se21/blob/master/docs/syllabus.md#top">syllabus</a> ::
+<a href="https://github.com/txt/se21/blob/master/docs/syllabus.md#timetable">timetable</a> ::
+<a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups</a> ::
+<a href="https://moodle-courses2122.wolfware.ncsu.edu/course/view.php?id=3211">moodle</a> ::
+<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=a5998f03-01df-4c6c-91c1-ad80003f3c7c">video</a> ::
+<a href="https://github.com/txt/se21/blob/master/LICENSE.md#top">&copy; 2021</a>
+<br>
+<hr>
+
+
+
+# Howework: 2b: Write a "good" Github Repo
 
 Your repo is your resume. But what is a  good looking repo?
 
@@ -38,7 +55,13 @@ code/
 If you don't know what any of the above do, then google them (they are quite standard). ALso, read the following: 
 
 - README.md
-   - add the travis badge "build:passing"  to your README.md. See [Instructions]https://docs.travis-ci.com/user/customizing-the-build)
+   - add the  badge "build:passing"  to your README.md. 
+     -  Consider using a  free service like   github-actions
+       - [instructions](https://lab.github.com/githubtraining/github-actions:-hello-world)
+       - [example](https://github.com/timm/keys/blob/main/.github/workflows/unit-test.yml)
+       - [badging](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge) <a 
+href="https://github.com/timm/keys/actions"><img src="https://github.com/timm/keys/actions/workflows/unit-test.yml/badge.svg"></a>
+     - Consider using travis-ci see [Instructions]https://docs.travis-ci.com/user/customizing-the-build)
    - add the Zenodo DOI badge to your README.md. See [Instructions](https://genr.eu/wp/cite/)
 - [.gitignore](https://github.com/github/gitignore)
 - LICENSE.md
@@ -50,7 +73,7 @@ If you don't know what any of the above do, then google them (they are quite sta
 - [requirements.txt](https://www.idkrtm.com/what-is-the-python-requirements-txt/)
 - [setup.py, __init__.py](https://github.com/bmcfee/spatialtree)
   - Test your package (`python3 setup.py install`)
-- [.travis.yml](https://docs.travis-ci.com/user/customizing-the-build)
+
 
 Regarding the last point, keep it real simple.
 In Python, write the smallest example of [pytest](https://docs.pytest.org/en/stable/)
@@ -65,4 +88,4 @@ def test_answer():
     assert inc(3) == 5
 ```
 
-Hook that code into Travis so that everytime you commit your repo, your tests re-run.
+Hook that code into your repo so that the "build:passing" badge wrosk ( so that everytime you commit your repo, your tests re-run).
