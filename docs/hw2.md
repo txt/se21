@@ -23,22 +23,21 @@ Following the previous assignment, in this one we will:
 - Submit the reuse report in the required format just like in HW 1
 
 ## What to do
-Go to the DOR [repository](https://github.com/bhermann/DoR/issues).
+1. We will assign you a package! Please go to assigning sheet (announce later) and find your working package.
   
-Find the packet number (wp-XX) you want to work on. You must choose a packet that have **NOT** been assigned to anyone yet.
+2. In the Reuse GitHub Repo: https://github.com/bhermann/DoR, find the **issue** corresponds to your working package. In that **issue**, leave the comment "I would like to work on this please!". GitHub action will automatically assign you to this issue.
   
-Assign yourself to the issue following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
+3. Now in the homepage of that repo, please grab your packet from the [todo list](https://github.com/bhermann/DoR/tree/main/workflow/todo) 
   
-Grab your packet from the [DOR project](https://github.com/bhermann/DoR/tree/main/workflow/todo) 
+4. Same as Homework 1, please find the reuse in your package by following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md)
   
-Find and report reuse.
+5. Report the reuse in a .csv file.
+ 
   
 ## What to submit
 
-Prepare your DOR report in the required format (see the [sample csv](https://github.com/bhermann/DoR/blob/main/workflow/results-sample.csv))
-
-Name your report csv file **wp-XX-results.csv** (where XX refers to the work package id like "ae").
-  
-Upload you report file following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
-
-In the central spreadsheet XXX, paste the link to the issue your worked on (under the column `link to result`).
+- Prepare your DOR report in the required format (see the [sample csv](https://github.com/bhermann/DoR/blob/main/workflow/results-sample.csv))
+- Name your report csv file **wp-XX-results.csv** (where XX refers to the work package id like "ae").
+- Upload you report file following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
+- After you upload your csv file, leave comment "I completed this work package.". The GitHub action will automatically unassign you to that issue.
+- In the central spreadsheet XXX, paste the link of the issue you worked on (under the column `link to result`).
