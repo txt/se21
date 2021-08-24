@@ -61,7 +61,7 @@ If you don't know what any of the above do, then google them (they are quite sta
        - [example](https://github.com/timm/keys/blob/main/.github/workflows/unit-test.yml)
        - [badging](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge) <a 
 href="https://github.com/timm/keys/actions"><img src="https://github.com/timm/keys/actions/workflows/unit-test.yml/badge.svg"></a>
-     - Consider using travis-ci see [Instructions]https://docs.travis-ci.com/user/customizing-the-build)
+     - Consider using travis-ci see [Instructions](https://docs.travis-ci.com/user/customizing-the-build)
    - add the Zenodo DOI badge to your README.md. See [Instructions](https://genr.eu/wp/cite/)
 - [.gitignore](https://github.com/github/gitignore)
 - LICENSE.md
