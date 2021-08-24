@@ -68,7 +68,7 @@
 </td>
 <td valign=top>
 Aug 26, <a href="docs/hw1.md">Homework 1</a><br>
-Sept 2, <a href="docs/hw2.md">Homework 2a</a><br>
+Sept 2, <a href="docs/hw2b.md">Homework 2b</a><br>
 Sept 9, <a href="docs/hw2.md">Homework 2</a><br>
 Sept 16, <a href="docs/hw3.md">Homework 3</a><br>
 Tbd,  Homework 4<br>
