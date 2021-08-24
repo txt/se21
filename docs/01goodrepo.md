@@ -40,3 +40,21 @@
 - **CODE-OF-CONDUCT.md**:
     - https://chromium.googlesource.com/external/github.com/coreos/seismograph/+/edbe2360e9af362914868df0c7c1ace62e8e1778/code-of-conduct.md 
 
+## Case Study (Black)
+  
+![image](https://user-images.githubusercontent.com/29195/130550744-02b6b5b3-2ced-45a2-8d57-ea75b3708988.png)
+
+## Case Study (Zephyr)   
+  
+15 real-time operating systems 2018, 2020
+  
+Why is the Zephyr operating  syste,s succeeding so well?
+- Perception of open governance (no one owns it)
+- So you can contribute, without anyone  ever locking away your work
+- AND you can get everyone else’s contributions
+
+![image](https://user-images.githubusercontent.com/29195/130550329-18ca9f19-13ed-4fe5-bb70-d3a54dbca4ce.png)
+
+![image](https://user-images.githubusercontent.com/29195/130550433-bb6c8952-df95-42de-81b6-573c9b3cf014.png)
+
+  ![image](https://user-images.githubusercontent.com/29195/130550489-4bc8e2a2-fd66-4b8a-b0a9-adba362df3ef.png)
