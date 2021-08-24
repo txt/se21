@@ -40,4 +40,4 @@ Following the previous assignment, in this one we will:
 - Name your report csv file **wp-XX-results.csv** (where XX refers to the work package id like "ae").
 - Upload you report file following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
 - After you upload your csv file, leave comment "I completed this work package.". The GitHub action will automatically unassign you to that issue.
-- In the central spreadsheet XXX, paste the link of the issue you worked on (under the column `link to result`).
+- In the central spreadsheet https://docs.google.com/spreadsheets/d/1hNJWSdcClZgVJhxYPpjXcvfADymHEH68djGKwMkFNxo/edit?usp=sharing, paste the link of the issue you worked on (under the column `link to result`).
