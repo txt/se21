@@ -44,13 +44,20 @@
 
 <!-- -------------------------------- -->
 <dl>
-  <dt>
+ <dt>
     Introduction:
   </dt>
   <dd>
-    <a href="docs/00hello.md">Hello</a>, <br>
-    <a href="docs/syllabus.md">Syllabus</a>
+    <strike><a href="docs/00hello.md">Hello</a>, <br>
+    <a href="docs/syllabus.md">Syllabus</a></strike>
   </dd>
+  <dt>
+    Basics:
+  </dt>
+  <dd>
+    <a href="docs/01goodrepo.md">Version control</a>, <br>
+  </dd>
+
 </dl>
 
 <!-- -------------------------------- -->
