@@ -13,7 +13,7 @@
 <br>
 <hr>
   
-# Documentation and Patterns
+# Documentation 
 ## Tell me a story I can Understand
  (that makes me want to use your code)
   
@@ -233,6 +233,16 @@ History has not been kind to UML
 |Activity diagrams	  |     6  |
 |State machine diagram |   3|
 |Use case diagrams	   |   1 |
+
+  
+- UML useful for 
+  - A  'thought tool'
+  - For communicating with stakeholders
+  - For collaborative dialogs
+  - As the starting point for adaptation (i.e., using a homegrown variant of the "real" notation)
+- Two  ways to read Petre’14:
+  - An indictment: after 20 years, UML is still mostly not used and not valued.
+  - More hopefully,  parts of UML are used; the more we learn about which ones, where, why, and how, the better our chances of building something better.
 
   
   
