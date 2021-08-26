@@ -181,3 +181,24 @@ outflows.
   ![image](https://user-images.githubusercontent.com/29195/131000841-b2ac37f9-3489-4342-be3e-a0c2c39fd850.png)
 
   ![image](https://user-images.githubusercontent.com/29195/131000861-5e207f38-0526-4e01-98da-372fabd3c1ea.png)
+
+## Digression: A little trip into the land of UML
+
+“What” documentation: 
+UML = ER + procedures
+- Unified modeling language
+  
+  ![image](https://user-images.githubusercontent.com/29195/131001293-3de8f7ed-1ce8-488b-b2fb-2e835a441715.png)
+
+  ![image](https://user-images.githubusercontent.com/29195/131001314-f4ea547d-d6c5-4858-a7bc-9c6c76cb4e67.png)
+
+Hints for writing class diagrams
+
+- Don't add gets/setters to class methods
+- If there is a relationship classX to classY, 
+  - Don't add variables to X,Y. 
+  - Instead connect them with a line  and label if with a line.
+  - E.g. Professor instructs student
+- Also, consider [writing fewer classes](https://www.youtube.com/watch?v=o9pEzgHorH0)  (this one will just blow your mind).
+  - e.g. 10,000 LOC, 115 modules, 207 classes
+  - Downsized to 135 LOC, 3 classes (to handle a aprticular applciation)
