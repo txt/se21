@@ -55,7 +55,8 @@
     Basics:
   </dt>
   <dd>
-    <a href="docs/01goodrepo.md">Version control</a>, <br>
+    <strike> <a href="docs/01goodrepo.md">Version control</a>, </strike><br>
+        <a href="docs/doc.md">Documentation</a>, <br>
   </dd>
 
 </dl>
