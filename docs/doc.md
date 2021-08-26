@@ -226,4 +226,13 @@ History has not been kind to UML
 |retrofit	        |     1|
 |wholehearted	   | 0|
 
+  |Who uses what	  |     Number|
+  |------|--------|
+|Class diagrams	     |          7|
+|Sequence diagrams 	 |      6|
+|Activity diagrams	  |     6  |
+|State machine diagram |   3|
+|Use case diagrams	   |   1 |
+
+  
   
