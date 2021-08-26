@@ -200,5 +200,30 @@ Hints for writing class diagrams
   - Instead connect them with a line  and label if with a line.
   - E.g. Professor instructs student
 - Also, consider [writing fewer classes](https://www.youtube.com/watch?v=o9pEzgHorH0)  (this one will just blow your mind).
-  - e.g. 10,000 LOC, 115 modules, 207 classes
-  - Downsized to 135 LOC, 3 classes (to handle a aprticular applciation)
+  - e.g. Before: 10,000 LOC, 115 modules, 207 classes
+    - After: Downsized to 135 LOC, 3 classes (to handle a aprticular applciation)
+- Brainstorm with CRC cards
+  - Class, responsibility, collaboration cards
+    - Walk through specific scenarios
+  - Hold the card to your chest  and say “I update the X”
+  - And when the responsibility feels wrong,  pass it to another class
+
+![image](https://user-images.githubusercontent.com/29195/131001997-5539a9f1-a395-4ab6-bf6e-6a432f397b76.png)
+
+History has not been kind to UML
+  
+- UML = under-defined modeling language
+  - Not enough semantics to support verification
+- Marian Petre: "UML in practice" ICSE'13, 2013. http://oro.open.ac.uk/35805/
+  - UML has been described by some as "the lingua franca of software engineering". Evidence from industry does not necessarily support such endorsements. How exactly is UML being used in industry — if it is? Interviews with 50 professional software engineers in 50 companies 
+
+
+| | Number|
+|--|------|
+|  no UML	      |     35|
+|selective	     |      11|
+|auto-code gen	 |   3|
+|retrofit	        |     1|
+|wholehearted	   | 0|
+
+  
