@@ -81,4 +81,103 @@ Kinds of doc (hit "why not" rarer than "why" rarer than "how" rarer "what"):
 
  For a sensational case study, read the original textbook on "C". 
   - [Chapter1](http://www.ccapitalia.net/descarga/docs/1978-ritchie-the-c-programming-language.pdf) is a work of art
-  - 
+ 
+  
+## If you want to reap the 
+benefit of good documentation 
+
+  Make the documents something reasonable 
+(e.g. documentation ⇒ verification 
+or documentation ⇒ code generation)
+
+### “Why not” documentation
+- e.g. Feature model: look like “just” a pretty picture.
+-  But look again: see the logic?  the constraints? the why nots
+  
+![image](https://user-images.githubusercontent.com/29195/130999315-28599041-7988-49a0-bd36-3af6fd8a245c.png)
+
+- this model: 10 variables, 8 rules
+- Linux kernel: 6,888 variables, 344000 rules
+
+### “What” documentation: 
+- e.g. State transition diagrams
+- David Harel, Statecharts: A visual formalism for complex systems. Science of Computer Programming, 8(3):231-274, June 1987. 
+10,100+ citations (!!!)
+- Black dot = 
+initial state
+- Dashed lines: 
+parallel work
+- Words on arcs:
+ transition guards
+- Solid line:
+ nested sub-state machines (and all transitions on super-states apply to sub-states
+  
+  ![image](https://user-images.githubusercontent.com/29195/130999564-4965a203-83c0-46cb-b293-57a94a6d940d.png)
+
+- Good for scriblling on white board: 
+  - very good  for small systems, E.g. internal reasoning within one class
+- Good for readoning about  r mission critical kernels of safety critical systems
+  - Can reason over diagram to look for 
+    - Live lock: loops which never terminate
+    - Dead locks: states we can never escape
+
+![image](https://user-images.githubusercontent.com/29195/130999771-d6d4e927-fc0e-4cfe-8216-25c0bfaa1209.png)
+
+### “What” documentation
+- e.g.Entity-Relationship Diagrams
+- Database design
+  - Don’t document the code
+  - Document the data it runs on
+- Everything is tables, whose cells can be String, Number, Date, Blob (binary object), Null
+  - But NOT a nested table
+- If many of these things depends on many of those things
+  - Add a relationship table in between
+- A set of sanity checks for “bad” table design
+  -  Store every datum once, and once only
+  - Avoid, add/ delete/ update anomalies
+- Many tools for auto-application generation (GUI screen 
+Generation,  mapping to databases).
+
+
+![image](https://user-images.githubusercontent.com/29195/131000060-bb703a24-2ad5-4375-a108-1bd52d166b62.png)
+
+## Documentation ⇒  code generation
+  
+###  e.g. ER diagrams: screen painting tools
+
+ Interactive GUIs generated from 
+  database table design
+  
+  ![image](https://user-images.githubusercontent.com/29195/131000390-f043ca40-20f4-4592-946a-29b887c4a4d3.png)
+
+  
+###  e.g. State transition diagrams
+  
+cross-compile to “C”
+  
+  ![image](https://user-images.githubusercontent.com/29195/131000444-08b270ac-977b-437b-8d7c-2bb6b5995fdd.png)
+
+  ![image](https://user-images.githubusercontent.com/29195/131000462-fef5adcc-602c-4178-84ff-d8bc0c15e85c.png)
+
+### E.g. Compartmental diagrams: Easy to code:
+
+- _Flows_ change _stuff_ (and _stuff_ is called _Stocks_).
+- _Stocks_ are real-valued variables , some entity that is 
+accumulated over time by inflows and/or depleted by 
+outflows.
+ 
+
+
+ ![image](https://user-images.githubusercontent.com/29195/131000757-04597f42-c96f-40cc-804f-9876a16b00ca.png)
+
+  ![image](https://user-images.githubusercontent.com/29195/131000808-af4e8634-baaf-47ba-a4b1-31c881d532f6.png)
+
+- To code CM,
+  - sum in + out_flows_ around each _stock_;
+  - multiply that by the time tick dt
+  - add the result back to the _stock_
+  - e.g.  v.C += dt*(u.q - u.r) (u,v = before,now)
+
+  ![image](https://user-images.githubusercontent.com/29195/131000841-b2ac37f9-3489-4342-be3e-a0c2c39fd850.png)
+
+  ![image](https://user-images.githubusercontent.com/29195/131000861-5e207f38-0526-4e01-98da-372fabd3c1ea.png)
