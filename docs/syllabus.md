@@ -131,7 +131,7 @@ Tim Menzies <img src="http://www.csc.ncsu.edu/enews/images/1770.jpg" align=right
 
 + Github id: timm
 + Discord name: timm
-+ Office Hours: Tuesday, 12:00-2:00 and by request
++ Office Hours: Monday, 12:00-2:00 and by request
 + E-Mail: timm@ieee.org
   + Only use this email for private matters. A
      ll other class communication should be via the class news group,    listed below.
