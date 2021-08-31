@@ -41,3 +41,8 @@ Following the previous assignment, in this one we will:
 - Upload your report file following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
 - After you upload your csv file, leave comment "I completed this work package.". The GitHub action will automatically unassign you to that issue.
 - In the central spreadsheet https://docs.google.com/spreadsheets/d/1hNJWSdcClZgVJhxYPpjXcvfADymHEH68djGKwMkFNxo/edit?usp=sharing, paste the link of the issue you worked on (under the column `link to result`).
+  
+## Note
+  
+- Please submit **comma-separated values file (csv file)**!
+- Windows users may have issues when upload the csv file to the issue comment. If this happens, please add **.txt** to your file name in your local machine (Your final file name should be something like **wp-xx-results.csv.txt**). It will solve your uploading problem.
