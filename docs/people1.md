@@ -27,6 +27,8 @@ For more on PBI, see [https://dux.typepad.com/dux/2011/03/method-10-of-100-persp
 
 ## Specifc Case: GenderMag
 
+Create different  perspectives such [social groupings](https://sites.google.com/site/gendermagteach/2-how-to-teach?authuser=0#h.i2gqt1r91k8a).
+
 # Part3 : Wrangling People for Designing  Things
 
 CRC cadrds
