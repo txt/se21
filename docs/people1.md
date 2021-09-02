@@ -1,6 +1,6 @@
-#  People (as a Technology)
+#  People (the most powerful Technology)
 
-Three pars:
+Three parts:
 
 - Inspections
 - Planning  Poker
