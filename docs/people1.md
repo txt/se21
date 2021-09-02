@@ -23,7 +23,7 @@ Can be applied to any artifact,  any technology
 - Don't have to waut for  (e.g.)  updates to latest version of the parser
 - Needs no tools, no  licenses
 
-For more on PBI, see [https://dux.typepad.com/dux/2011/03/method-10-of-100-perspective-based-inspection.html].
+For more on PBI, [see here](https://dux.typepad.com/dux/2011/03/method-10-of-100-perspective-based-inspection.html).
 
 ## Specifc Case: GenderMag
 
