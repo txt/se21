@@ -23,7 +23,7 @@ Following the previous assignment, in this one we will:
 - Submit the reuse report in the required format just like in HW 1
 
 ## What to do
-1. We will assign you a package! Please go to assigning sheet (announce later) and find your working package.
+1. We will assign you a package! Please go to assigning sheet (https://docs.google.com/spreadsheets/d/1PziN1wClYOd9c-3aKzsf5vJxMbvhxzKVWHcwRBfpe3w/edit) and find your working package.
   
 2. In the Reuse GitHub Repo: https://github.com/bhermann/DoR, find the **issue** corresponds to your working package.
   
