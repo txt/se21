@@ -1,20 +1,36 @@
-#  Using CRC Cards \
-Class-Responsibility-Collaboration  
-**H. Conrad Cunningham**   
-**27 April 2018**   
+#  People (as a Technology)
 
+Three pars:
 
-Credits:
-**Copyright (C) 2018, 
+-  Class-Responsibility-Collaboration  **H. Conrad Cunningham**   ,**27 April 2018**   **Copyright (C) 2018, 
   [H. Conrad Cunningham ](<http://www.cs.olemiss.edu/~hcc>)**
+   - **Acknowledgement**: These notes are based, in part, on material from
+      chapters 3, 4, 5, and 6 of \[Bellin 1997\].
+   -  **Advisory**: The HTML version of this document requires use of a
+      browser that supports the display of MathML. A good choice as
+       of April 2018 is a recent version of Firefox from Mozilla.
 
-**Acknowledgement**: These notes are based, in part, on material from
-chapters 3, 4, 5, and 6 of \[Bellin 1997\].
 
-**Advisory**: The HTML version of this document requires use of a
-browser that supports the display of MathML. A good choice as
-of April 2018 is a recent version of Firefox from Mozilla.
+# Part2: Perspective-Based Inspections
 
+People, read stuff.
+
+Different people  are told to read for  different things
+-  reduces load of each one  person
+-  prevents double  up
+
+Can be applied to any artifact,  any technology
+- Don't have to waut for  (e.g.)  updates to latest version of the parser
+- Needs no tools, no  licenses
+
+For more on PBI, see [https://dux.typepad.com/dux/2011/03/method-10-of-100-perspective-based-inspection.html].
+
+## Specifc Case: GenderMag
+
+# Part3 : Wrangling People for Designing  Things
+
+CRC cadrds
+`
 <img src="https://farm5.staticflickr.com/4263/35695852825_b6118424c7_z.jpg">
 
 Walk, talk, argue, tear stuff up. Work it again. Its just design (a.k.a. walking through  ideas)
@@ -319,6 +335,7 @@ such as a **change of address** or **phone number** using the **ATM**.
 
 ## Candidate Classes for ATM
 
+```
 ----------------  ----------------------  ------------------------
 ATM               FinancialTransaction    BankCard
 BankCustomer      PIN                     Account
@@ -331,7 +348,7 @@ Balance           TimeOutKey              TransactionLog
 Key               AccountHolder           Printer
 ScreenSaver       Prompt                  NumericKey
 ----------------  ----------------------  ------------------------
-
+```
 
 ## Identify Core Classes (1)
 
