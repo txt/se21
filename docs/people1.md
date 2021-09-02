@@ -35,6 +35,11 @@ For more, [see here](https://faculty.washington.edu/ajko/books/design-methods/#/
 
 Ego-less way to do  effort  estimation
 
+[Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
+
+![image](https://user-images.githubusercontent.com/29195/131859590-853f2abf-5e36-4c8d-ac7a-0b87c8c47db8.png)
+
+
 # Part3 : Wrangling People for Designing  Things
 
 CRC cadrds
