@@ -2,6 +2,8 @@
 
 Three pars:
 
+- Inspections
+- Planning  Poker
 -  Class-Responsibility-Collaboration  **H. Conrad Cunningham**   ,**27 April 2018**   **Copyright (C) 2018, 
   [H. Conrad Cunningham ](<http://www.cs.olemiss.edu/~hcc>)**
    - **Acknowledgement**: These notes are based, in part, on material from
@@ -11,7 +13,7 @@ Three pars:
        of April 2018 is a recent version of Firefox from Mozilla.
 
 
-# Part2: Perspective-Based Inspections
+# Part1:   Inspections
 
 People, read stuff.
 
@@ -23,11 +25,15 @@ Can be applied to any artifact,  any technology
 - Don't have to waut for  (e.g.)  updates to latest version of the parser
 - Needs no tools, no  licenses
 
-For more on PBI, [see here](https://dux.typepad.com/dux/2011/03/method-10-of-100-perspective-based-inspection.html).
+You can  inspect anything
+- designs:  collect "users stories" then run  the  stories.
+  - see where the design falls  off the edge
+- tests:  manually run some "what-ifs" throogh  the code
+For more, [see here](https://faculty.washington.edu/ajko/books/design-methods/#/analytical).
 
-## Specifc Case: GenderMag
+# Part2: Planning Poker
 
-Create different  perspectives such [social groupings](https://sites.google.com/site/gendermagteach/2-how-to-teach?authuser=0#h.i2gqt1r91k8a).
+Ego-less way to do  effort  estimation
 
 # Part3 : Wrangling People for Designing  Things
 
