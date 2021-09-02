@@ -12,6 +12,7 @@ Three pars:
       browser that supports the display of MathML. A good choice as
        of April 2018 is a recent version of Firefox from Mozilla.
 
+   
 
 # Part1:   Inspections
 
@@ -37,7 +38,7 @@ Ego-less way to do  effort  estimation
 
 [Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
 
-![image](https://user-images.githubusercontent.com/29195/131859590-853f2abf-5e36-4c8d-ac7a-0b87c8c47db8.png)
+<img  width=600 src="https://user-images.githubusercontent.com/29195/131859590-853f2abf-5e36-4c8d-ac7a-0b87c8c47db8.png">
 
 
 # Part3 : Wrangling People for Designing  Things
