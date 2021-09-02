@@ -15,6 +15,9 @@ chapters 3, 4, 5, and 6 of \[Bellin 1997\].
 browser that supports the display of MathML. A good choice as
 of April 2018 is a recent version of Firefox from Mozilla.
 
+<img src="https://farm5.staticflickr.com/4263/35695852825_b6118424c7_z.jpg">
+
+Walk, talk, argue, tear stuff up. Work it again. Its just design (a.k.a. walking through  ideas)
 
 ## Objectives
 
