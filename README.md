@@ -67,7 +67,7 @@
 
 <td align=center   valign=top xwidth="100px">
     <a href="docs/review1.md">Review1</a>, <br>
-    <a href="docs/review2.md"rReview2</a>
+    <a href="docs/review2.md">Review2</a>
  
 </td>
 <td valign=top>
