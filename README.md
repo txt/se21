@@ -66,7 +66,8 @@
 <!-- -------------------------------- -->
 
 <td align=center   valign=top xwidth="100px">
-<img width=40 src="https://cdn.imgbin.com/1/14/4/imgbin-new-tag-rc3dLQYRD66TXkmqTktPM3L0H.jpg">
+    <a href="docs/review1.md">rReview1</a>, <br>
+    <a href="docs/review2.md">rReview2</a>
  
 </td>
 <td valign=top>
