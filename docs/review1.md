@@ -27,36 +27,37 @@
 |LICENSE.md      |q|r|s|t| 
  
 1. Fill in the above table.
-2. "Programmers don't just program." Comment. 
+2. "Programmers don't just program." Comment.     
    In your comment, make so use of the known value of how much time programmers actually spend programming each day.
-3. "The most important 'technology' is people." Comment.
+3. "The most important 'technology' is people." Comment.    
    In your comment, make so use of the relative speed required for a humna or a static code analysis tool to assess code written in some changed and updated version of JAVA.
 4. Inspections
    - Name 2 software project artifacts that can be inspect.
-   - Defined "perspective-based inspections". For each of your 2 kinds of artifacts, define 2 different perspectives for inspecting that artifact. Offer an example of what might be
-     learned via inspection for each of these 2\*2=4 prespectives. 
-5. "Anonymous planning poker is an ego-less method for prioritizing tasks". Explain. Ensure your explanation defines "planning poker" and "anonymous planning poker".
+   - Defined "perspective-based inspections". 
+     - For each of your 2 kinds of artifacts, define 2 different perspectives for inspecting that artifact. 
+     - Offer an example of what might be learned via inspection for each of these 2\*2=4 prespectives. 
+5. "Anonymous planning poker is an ego-less method for prioritizing tasks". Explain.     Ensure your explanation defines "planning poker" and "anonymous planning poker".
 6. For the game tic-tac-toe (also known as naughts-and crosses), describe 4 classes (using CRC cards)
    - Start by defining that "C" and "R" and "C" is short form).
-1. List and define the five best practices  as stated by the LINUX foundation.
+7. List and define the five best practices  as stated by the LINUX foundation.
    - For each, give an example of something that helps or hurts each practice
-2. Using a feature map notations, draw an example product line
+8. Using a feature map notations, draw an example product line
    - Describe two different products from that product line
    - What are cross-tree constraint in  and why do they made product generation fundamentally harder?
-3. Jack Diederich in [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) lists an anti-pattern
+9. Jack Diederich in [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0) lists an anti-pattern
    (an indicator of a poor class design)
   - State that anti-patterns.
   - How would you fix it?
   - In Diederich's experience, what is the effect on the code
     of implementing that fix?
-1. Branching
+10. Branching
    - What is branching?
    - Describe the git flow branch model
    - Describe the trunk-based   brach model
      - Distinguish this model from git flow
    - For each style of branching
    - Describe one style of project development that might benefit most from that style. Justify your answer
-1. Licenses
+11. Licenses
    - Why does the Apache foundation prefer the Apache License over the MIT license?  [Hint][https://choosealicense.com/).
 
 
