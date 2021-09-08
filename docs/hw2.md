@@ -41,7 +41,7 @@ Following the previous assignment, in this one we will:
 - Prepare your DOR report in the required format (see the [sample csv](https://github.com/bhermann/DoR/blob/main/workflow/results-sample.csv))
 - Name your report csv file **wp-XX-results.csv** (where XX refers to the work package id like "ae").
 - Upload your report file to your **issue** by following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
-- After you upload your csv file, in the central spreadsheet https://docs.google.com/spreadsheets/d/1hNJWSdcClZgVJhxYPpjXcvfADymHEH68djGKwMkFNxo/edit?usp=sharing, paste the link of the issue you worked on (under the column `link to result`).
+- After you upload your csv file, in the central spreadsheet https://docs.google.com/spreadsheets/d/1GmnStM4HUbiUdDkEwPvpXo21BRYcpHsjN_S_RSg1_Ic/edit#gid=0, paste the link of the issue you worked on (under the column `link to result`) and leave comment on some unnormal situation (under the column `comment`).
   
 ## Note
   
