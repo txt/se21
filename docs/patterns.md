@@ -56,6 +56,9 @@ Data : model : dialog
 
 ## Example2: Composite design patterns
 
+![image](https://user-images.githubusercontent.com/29195/132732186-f1aeec90-3d7c-4890-affc-61a0b2d376dc.png)
+
+	
   ![image](https://user-images.githubusercontent.com/29195/132730145-249b070f-5779-4d0d-b5a5-575a8160e74d.png)
 
   ![image](https://user-images.githubusercontent.com/29195/132730161-7cdc5972-5870-48b2-8583-79ae3821b533.png)
@@ -151,3 +154,49 @@ stove-piped solutions:
 -  "based on reusable hardware & software services"
 
 ![image](https://user-images.githubusercontent.com/29195/132731317-97f48837-b9f0-4052-af41-8fd3a168a34b.png)
+
+## Example5: CRUD: low-level code idiom
+	
+CRUD = create, read, update, delete
+	
+- In  SQL:  INSERT = C, SELECT = R , UPDATE and DELETE.
+- In http:  : GET = R, DELETE.= D, PUT=?, POST=? 
+  - PUT : might create  new user or update info on an existing user (so PUT  = C or U?)
+  - POST :  sends data to the server and leaves it up to the server to do something with it  
+
+CRUD2 (a timm special)
+- CRUD + search  + zoombie (a proxy that  cannot be committed (inserted) used
+- For GUI constrain info 
+
+	
+BTW, CRUD can leap from idiom to archicture (web-scale RESTful applications)
+	
+Regardless
+- the main points here is
+that complex systems can be abstracted 
+into reasonable chunks via Patterns
+- Such abstraction  simplifies how we discuss even complex
+systems
+	
+## For more on Patterns
+	
+![image](https://user-images.githubusercontent.com/29195/132732089-6dbbd7c3-53f0-4a6a-a51b-b088d409d384.png)
+
+[Design Patterns: Elements Of Reusable Object-Oriented Software](https://www.biblio.com/9780201633610) (1995) 
+- The “Gang of 4” (GOF) book
+- 43,582 citations
+- 500,000 copies sold
+- All codes, in ruby (very nice): https://github.com/davidgf/design-patterns-in-ruby   
+-  Examples: http://asi.insa-rouen.fr/enseignement/siteUV/genie_logiciel/supports/ressources/exemples_de_la_vie_reelle_pour_illustrer_pattern.pdf  
+
+	![image](https://user-images.githubusercontent.com/29195/132732541-c53d68c4-1f3f-4830-935e-e2f544319280.png)
+
+
+- Note: something strange about GOF. 
+- Misses architectural patterns 
+(larger things than design patterns). E g CRUD, blackboards
+- 23 patterns in 1995. Not 230 since.
+  - Functional programers invent 10 patterns before lunch
+     http://norvig.com/design-patterns/design-patterns.pdf
+  - Peter Norvig: "Design patterns are bug reports  against your programming language.”
+	
