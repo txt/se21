@@ -24,7 +24,7 @@ Same as the Homework 2, you will work on another package which has been skimmed 
 - Submit the reuse report in the required format just like in HW 2
 
 ## What to do
-1. We will assign you a package! Please go to assigning sheet (announce it later) and find your working package for HW3. 
+1. We will assign you a package! Please go to assigning sheet (https://docs.google.com/spreadsheets/d/1v1_8isE1W_bezk5u9Y8O2k4MYPSok2gYH-XtWzqKdvk/edit#gid=0) and find your working package for HW3. 
   
 2. In the Reuse GitHub Repo: https://github.com/bhermann/DoR, find the **issue** corresponds to your working package.
   
