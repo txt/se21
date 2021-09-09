@@ -58,6 +58,7 @@
     <strike> <a href="docs/01goodrepo.md">Version control</a>, </strike><br>
         <a href="docs/doc.md">Documentation</a>, <br>
       <strike><a href="docs/people1.md">People</a></strike>,<br>
+       <a href="docs/patterns.md">Patterns</a> <br>
       <a href="docs/testing.md">Testing</a> 
   </dd>
 
