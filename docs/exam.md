@@ -13,7 +13,7 @@
 <br>
 <hr>
 
-# Mid-Tern Exam
+# Exam Structure (mid-term and final)
 
 X vs y
 
