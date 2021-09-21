@@ -15,15 +15,21 @@
 
 # Exam Structure (mid-term and final)
 
-X vs y
+Time: 75 minutes
 
-- What is the same?
-- What is different?  
-- When to pick X or Y?  
-- How to check if the thing you picked turns out to be not working?
+Students will be pretended with a list of SIX `X vs Y` items (for examples, see below).
+  
+For THREE of those items
+
+- for each item
+  - write down the X vs Y
+  - What is the same about X and Y
+  - What is different about X or Y
+  - When should a software project select X versus Y?  
+  - If a projects does (X or Y), how to monitor and check if the selected item  turns out to be not working?
 
 
-e.g.
+Examples of X vs Y
 
 - Git flow vs commit2 trunk
 - Short vs long release cycles
