@@ -80,10 +80,10 @@ Tbd,  Homework 4<br>
 Tbd,  Homework 5<br>
 Tbd,  Homework 6<br>
 Sept 30, <a href="docs/proj1.md">Project 1</a><br>
-Oct 12, Mid-term<br>
+Oct 12, <a href="docs/exam.md">Mid-term</a><br>
 Nov 4, Project 2<br>
 Nov 29, Project 3<br>
-Dec 3, "Exam" 
+Dec 3, Exam" 
 </td>
 </tr>
 
