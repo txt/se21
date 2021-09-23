@@ -37,8 +37,8 @@ Examples of X vs Y
 - Feature models vs ER diagrams
 - CRC vs state machines
 - Compartmental models vs state machines
-- Closed sources vs open source
-- On-prem vs cloud
+- Closed sources vs open source (see video, Thursday Sep21)
+- On-prem vs cloud (see video, Thursday Sep21)
 - Python vs C
 - Distributed versus centralized development
 - Apache vs MIT
