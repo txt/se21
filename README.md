@@ -17,9 +17,9 @@
 <table width="100%" border=0 align=center>
 <tr>
 <td></td>
-<td align=center width=200><img src="docs/img/lectures.gif"></td>
+<td align=center width=1500><img src="docs/img/lectures.gif"></td>
 <td align=center><img           src="docs/img/review.gif"></td>
-<td align=center width=200><img width=64 src="docs/img/time.png"></td>
+<td align=center width=250><img width=64 src="docs/img/time.png"></td>
 </tr>
 <tr>
 <td></td>
@@ -57,8 +57,8 @@
   <dd>
     <strike> <a href="docs/01goodrepo.md">Version control</a>,<br>
         <a href="docs/doc.md">Documentation</a>, <br> </strike>
-      <strike><a href="docs/people1.md">People</a></strike>,<br>
-       <a href="docs/patterns.md">Patterns</a> <br>
+      <strike><a href="docs/people1.md">People</a><br>
+       <a href="docs/patterns.md">Patterns</a></strike>, <br>
       <a href="docs/testing.md">Testing</a> 
   </dd>
 
