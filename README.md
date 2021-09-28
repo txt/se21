@@ -56,7 +56,7 @@
   </dt>
   <dd>
     <strike> <a href="docs/01goodrepo.md">Version control</a>,<br>
-        <a href="docs/doc.md">Documentation</a>, <br> </strike><
+        <a href="docs/doc.md">Documentation</a>, <br> </strike>
       <strike><a href="docs/people1.md">People</a></strike>,<br>
        <a href="docs/patterns.md">Patterns</a> <br>
       <a href="docs/testing.md">Testing</a> 
@@ -73,9 +73,9 @@
 </td>
 <td valign=top>
   <strike>Aug 26, <a href="docs/hw1.md">Homework 1</a></strike><br>
-<strike>Sept 2, <a href="docs/hw2b.md">Homework 2b</a></strike><br>
+<strike>Sept 2, <a href="docs/hw2b.md">Homework 2b</a><br>
 Sept 9, <a href="docs/hw2.md">Homework 2</a><br>
-Sept 16, <a href="docs/hw3.md">Homework 3</a><br>
+Sept 16, <a href="docs/hw3.md">Homework 3</a><br></strike>
  
 Tbd,  Homework 5<br>
 Tbd,  Homework 6<br>
