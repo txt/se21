@@ -44,4 +44,19 @@ Examples of X vs Y
 - Apache vs MIT
 - TDD vs waterfall
 - Agile vs waterfall
+- Black box testing vs White box testing?
+- 3 tired vs blackboard
+- Idioms vs architectured
+- mean  vs lamp
+- Patterns vs do everything from scratch
+- Crud vs RESTful
+- Functional programming vs OO patterns
+- Whitebox vs formal
+- Functional vs non-functional requirements
+- Security vs availability
+- Testing via ( Random vs Grammar-based fuzzing) 
+- Testing via (theorem proving vs TDD)
+
+
+
 - etc
