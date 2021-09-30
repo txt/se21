@@ -24,7 +24,7 @@ In homework 2 and homework 3, you have experienced on finding reuse from one pac
 - Submit the consistent result to Moodle.
 
 ## What to do
-1. We will assign you a package and your partner! Please go to assigning sheet (Announce later) and find your working package and your partner for HW4. 
+1. We will assign you a package and your partner! Please go to assigning sheet (https://docs.google.com/spreadsheets/d/1Et5kzG3sfRMM3InX7aCjn1NLrnrrFfxwHT4QJ-1HGMw/edit#gid=0) and find your working package and your partner for HW4. 
   
 2. In the same repo as HW2 and HW3, please grab your package from the [todo list](https://github.com/bhermann/DoR/tree/main/workflow/todo) 
   
