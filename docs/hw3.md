@@ -16,30 +16,35 @@
 # Homework 3: Check on the Real Package 
 
 
-Same as the Homework 2, you will select another package which has been skimmed before by another student, and do the same thing. Cross-checking is a good way to maintain the reliability of the data labelled by real people.
+Same as the Homework 2, you will work on another package which has been skimmed before by another student, and do the same thing. Cross-checking is a good way to maintain the reliability of the data labelled by real people.
   
-- Register one of the packages that worked by another student before
+- We will assign you a package which worked by other students in HW2. (Please don't look at result files submitted by previous students)
 - Skim the papers in that package
 - Find reused works in those papers
-- Submit the reuse report in the required format just like in HW 1
+- Submit the reuse report in the required format just like in HW 2
 
 ## What to do
-Go to the DOR [repository](https://github.com/bhermann/DoR/issues).
+1. We will assign you a package! Please go to assigning sheet (https://docs.google.com/spreadsheets/d/1v1_8isE1W_bezk5u9Y8O2k4MYPSok2gYH-XtWzqKdvk/edit#gid=0) and find your working package for HW3. 
   
-Find the packet number (wp-XX) you want to work on. You must choose a packet that have **NOT** been assigned to anyone yet.
+2. In the Reuse GitHub Repo: https://github.com/bhermann/DoR, find the **issue** corresponds to your working package.
   
-Assign yourself to the issue following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
+3. Now in that repo, please grab your packet from the [todo list](https://github.com/bhermann/DoR/tree/main/workflow/todo) 
   
-Grab your packet from the [DOR project](https://github.com/bhermann/DoR/tree/main/workflow/todo) 
+4. Same as Homework 2, please find the reuse in your package by following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md)
   
-Find and report reuse.
+5. Report the reuse in a .csv file.
+  
+6. In the coding guide (https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md), please ignore the commenting steps in **coding instructing** since we will assign you both in homework 2 and homework 3. What you need to comment to your **issue** is only the result file.
+ 
   
 ## What to submit
 
-Prepare your DOR report in the required format (see the [sample csv](https://github.com/bhermann/DoR/blob/main/workflow/results-sample.csv))
-
-Name your report csv file **wp-XX-results.csv** (where XX refers to the work package id like "ae").
+- Prepare your DOR report in the required format (see the [sample csv](https://github.com/bhermann/DoR/blob/main/workflow/results-sample.csv))
+- Name your report csv file **wp-XX-results.csv** (where XX refers to the work package id like "ae").
+- Upload your report file to your **issue** by following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
+- After you upload your csv file, in the central spreadsheet https://docs.google.com/spreadsheets/d/1GmnStM4HUbiUdDkEwPvpXo21BRYcpHsjN_S_RSg1_Ic/edit#gid=0, paste the link of the issue you worked on (under the column `link to result`) and leave comment on some unnormal situation (under the column `comment`).
   
-Upload you report file following the [standard instruction](https://github.com/bhermann/DoR/blob/main/workflow/coding_guide.md).
-
-In the central spreadsheet XXX, paste the link to the issue your worked on (under the column `link to result`).
+## Note
+  
+- Please submit **comma-separated values file (csv file)**!!! Submitting wrong file will cause you lose your points in that homework!!!
+- Windows users may have issues when upload the csv file to the issue comment. If this happens, please add **.txt** at the end of your file name in your local machine (Your final file name should be something like **wp-xx-results.csv.txt**). This will solve your uploading problem.

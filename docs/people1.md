@@ -1,20 +1,68 @@
-#  Using CRC Cards \
-Class-Responsibility-Collaboration  
-**H. Conrad Cunningham**   
-**27 April 2018**   
+<a name=top>
+<a href="http://tiny.cc/se21"><img  width=700
+  src="https://raw.githubusercontent.com/txt/se21/master/docs/img/femse.png"></a>
+<hr>
+<p>
+&nbsp;<a href="https://tiny.cc/se21">home</a> ::
+<a href="https://github.com/txt/se21/blob/master/docs/syllabus.md#top">syllabus</a> ::
+<a href="https://github.com/txt/se21/blob/master/docs/syllabus.md#timetable">timetable</a> ::
+<a href="https://docs.google.com/spreadsheets/d/1KKskduN7m1R3WYhQTLyWJgxkAvrp2UV-LEu5JWN26xo/edit#gid=0">groups</a> ::
+<a href="https://moodle-courses2122.wolfware.ncsu.edu/course/view.php?id=3211">moodle</a> ::
+<a href="https://ncsu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=a5998f03-01df-4c6c-91c1-ad80003f3c7c">video</a> ::
+<a href="https://github.com/txt/se21/blob/master/LICENSE.md#top">&copy; 2021</a>
+<br>
+<hr>
+	
+#  People (the most powerful Technology)
 
+Three parts:
 
-Credits:
-**Copyright (C) 2018, 
+- Inspections
+- Planning  Poker
+-  Class-Responsibility-Collaboration  **H. Conrad Cunningham**   ,**27 April 2018**   **Copyright (C) 2018, 
   [H. Conrad Cunningham ](<http://www.cs.olemiss.edu/~hcc>)**
+   - **Acknowledgement**: These notes are based, in part, on material from
+      chapters 3, 4, 5, and 6 of \[Bellin 1997\].
+   -  **Advisory**: The HTML version of this document requires use of a
+      browser that supports the display of MathML. A good choice as
+       of April 2018 is a recent version of Firefox from Mozilla.
 
-**Acknowledgement**: These notes are based, in part, on material from
-chapters 3, 4, 5, and 6 of \[Bellin 1997\].
+   
 
-**Advisory**: The HTML version of this document requires use of a
-browser that supports the display of MathML. A good choice as
-of April 2018 is a recent version of Firefox from Mozilla.
+# Part1:   Inspections
 
+People, read stuff.
+
+Different people  are told to read for  different things
+-  reduces load of each one  person
+-  prevents double  up
+
+Can be applied to any artifact,  any technology
+- Don't have to waut for  (e.g.)  updates to latest version of the parser
+- Needs no tools, no  licenses
+
+You can  inspect anything
+- designs:  collect "users stories" then run  the  stories.
+  - see where the design falls  off the edge
+- tests:  manually run some "what-ifs" throogh  the code
+For more, [see here](https://faculty.washington.edu/ajko/books/design-methods/#/analytical).
+
+# Part2: Planning Poker
+
+Ego-less way to do  effort  estimation
+
+[Wikipedia](https://en.wikipedia.org/wiki/Planning_poker)
+
+<img  width=600 src="https://user-images.githubusercontent.com/29195/131859590-853f2abf-5e36-4c8d-ac7a-0b87c8c47db8.png">
+
+
+# Part3 : Wrangling People for Designing  Things
+
+CRC cadrds
+`
+<img src="https://farm5.staticflickr.com/4263/35695852825_b6118424c7_z.jpg">
+
+Walk, talk, argue, tear stuff up. Work it again. Its just design (a.k.a. walking through  ideas)
 
 ## Objectives
 
@@ -316,6 +364,7 @@ such as a **change of address** or **phone number** using the **ATM**.
 
 ## Candidate Classes for ATM
 
+```
 ----------------  ----------------------  ------------------------
 ATM               FinancialTransaction    BankCard
 BankCustomer      PIN                     Account
@@ -328,7 +377,7 @@ Balance           TimeOutKey              TransactionLog
 Key               AccountHolder           Printer
 ScreenSaver       Prompt                  NumericKey
 ----------------  ----------------------  ------------------------
-
+```
 
 ## Identify Core Classes (1)
 

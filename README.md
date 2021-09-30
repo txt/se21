@@ -17,9 +17,9 @@
 <table width="100%" border=0 align=center>
 <tr>
 <td></td>
-<td align=center width=200><img src="docs/img/lectures.gif"></td>
+<td align=center width=150><img src="docs/img/lectures.gif"></td>
 <td align=center><img           src="docs/img/review.gif"></td>
-<td align=center width=200><img width=64 src="docs/img/time.png"></td>
+<td align=center width=250><img width=64 src="docs/img/time.png"></td>
 </tr>
 <tr>
 <td></td>
@@ -55,8 +55,11 @@
     Basics:
   </dt>
   <dd>
-    <strike> <a href="docs/01goodrepo.md">Version control</a>, </strike><br>
-        <a href="docs/doc.md">Documentation</a>, <br>
+    <strike> <a href="docs/01goodrepo.md">Version control</a>,<br>
+        <a href="docs/doc.md">Documentation</a>, <br> </strike>
+      <strike><a href="docs/people1.md">People</a><br>
+       <a href="docs/patterns.md">Patterns</a></strike>, <br>
+      <a href="docs/testing.md">Testing</a> 
   </dd>
 
 </dl>
@@ -64,22 +67,26 @@
 <!-- -------------------------------- -->
 
 <td align=center   valign=top xwidth="100px">
-<img width=40 src="https://cdn.imgbin.com/1/14/4/imgbin-new-tag-rc3dLQYRD66TXkmqTktPM3L0H.jpg">
+    <a href="docs/review1.md">Review1</a>, <br>
+    <a href="docs/review2.md">Review2</a>
  
 </td>
 <td valign=top>
   <strike>Aug 26, <a href="docs/hw1.md">Homework 1</a></strike><br>
-Sept 2, <a href="docs/hw2b.md">Homework 2b</a><br>
+<strike>Sept 2, <a href="docs/hw2b.md">Homework 2b</a><br>
 Sept 9, <a href="docs/hw2.md">Homework 2</a><br>
-Sept 16, <a href="docs/hw3.md">Homework 3</a><br>
-Tbd,  Homework 4<br>
+Sept 16, <a href="docs/hw3.md">Homework 3</a><br></strike>
+ 
 Tbd,  Homework 5<br>
 Tbd,  Homework 6<br>
 Sept 30, <a href="docs/proj1.md">Project 1</a><br>
-Oct 12, Mid-term<br>
+    Oct 4,  Proj1 grading week (no lecture Oct7)<br>
+    Oct 5,  Voting4proj2 (5pm)<br>
+   Oct 7,  <a href="docs/hw3.md">Homework 4</a><br>
+Oct 12, <a href="docs/exam.md">Mid-term</a><br>
 Nov 4, Project 2<br>
 Nov 29, Project 3<br>
-Dec 3, "Exam" 
+Dec 3, Exam" 
 </td>
 </tr>
 
