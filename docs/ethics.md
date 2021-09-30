@@ -246,7 +246,7 @@ Not clear that legal and political institutions are keeping up with the technolo
 
 ## Case Studies
 
-[(https://www.onlineethics.org/18876/Resources?resource-type=29_772&q=software%20engineering](https://www.onlineethics.org/18876/Resources?resource-type=29_772&q=software%20engineering)
+[https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/technology-ethics-cases/](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/technology-ethics-cases/)
 
 ## References
 
