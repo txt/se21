@@ -83,7 +83,7 @@ Tbd,  Homework 6<br>
 Sept 30, <a href="docs/proj1.md">Project 1</a><br>
     Oct 4,  Proj1 grading week (no lecture Oct7)<br>
     Oct 5,  Voting4proj2 (5pm)<br>
-   Oct 7,  <a href="docs/hw3.md">Homework 4</a><br>
+   Oct 7,  <a href="docs/hw4.md">Homework 4</a><br>
 Oct 12, <a href="docs/exam.md">Mid-term</a><br>
 Nov 4, Project 2<br>
 Nov 29, Project 3<br>
