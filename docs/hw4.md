@@ -13,7 +13,7 @@
 <br>
 <hr>
 
-# Homework 4: Gain Consistent Ideas on Reuse
+# Homework 4: Gain Consistent Ideas on Reuse (Due on Oct. 7th 11:59pm)
 
 In homework 2 and homework 3, you have experienced on finding reuse from one package, and re-evaluate another package. In software engineering, such cross validation is a good way to verify the data quality. Now, in homework 4, you will experience on finding reuse in software engineering with another partner, and get consistent knowledge for the package you are working on. 
   
