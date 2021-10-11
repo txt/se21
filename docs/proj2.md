@@ -1,4 +1,4 @@
-<a name=top>
+a name=top>
 <a href="http://tiny.cc/se21"><img  width=700
   src="https://raw.githubusercontent.com/txt/se21/master/docs/img/femse.png"></a>
 <hr>
@@ -15,10 +15,7 @@
 
 # Project2.
 
-This project has the same structure as Project1, with some extensions.
-
-Please contact the group whose work you are extending. Ask from their grading rubric and its scores.
-If that grading show any problem areas, you need to fix them (otherwise you will lose marks this time around).
+This project has the same structure as Project1. That is, you are trying to write code that some other group will agree to extend in Project3.
 
 **Important Notes**: 
 - Copy the following rubric to a markdown file. Fill it in. Where needed, add links into your repo to justify your answers. And that document to your repo as docs/proj2rubric.md.
@@ -53,3 +50,9 @@ pay extra attention to the latter rows.
 |1|Documentation describing how this version improves on the older version| 
 |3|This version is a little(1), some(2), much(3) improved on the last version.|| 
 |16| Total|
+
+
+Please contact the group whose work you are extending. Ask from their grading rubric and its scores.
+If that grading show any problem areas, you need to fix them (otherwise you will lose marks this time around).
+
+
