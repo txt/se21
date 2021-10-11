@@ -1,4 +1,4 @@
-a name=top>
+<a name=top>
 <a href="http://tiny.cc/se21"><img  width=700
   src="https://raw.githubusercontent.com/txt/se21/master/docs/img/femse.png"></a>
 <hr>
@@ -48,7 +48,7 @@ pay extra attention to the latter rows.
 |.5|test cases:.a large proportion of the issues related to handling failing cases. | if a test case fails, open an issue and fix it|
 |.5|test cases are routinely executed | e.g. travis-com.com or github actions or something|
 |1|Documentation describing how this version improves on the older version| 
-|3|This version is a little(1), some(2), much(3) improved on the last version.|| 
+|3|This version is a little(1), some(2), much(3) improved on the last version.|Tutor's assessment.| 
 |16| Total|
 
 
