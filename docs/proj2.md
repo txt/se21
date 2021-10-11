@@ -20,7 +20,8 @@ This project has the same structure as Project1, with some extensions.
 Please contact the group whose work you are extending. Ask from their grading rubric and its scores.
 If that grading show any problem areas, you need to fix them (otherwise you will lose marks this time around).
 
-**Important Notes**: i
+**Important Notes**: 
+- Copy the following rubric to a markdown file. Fill it in. Where needed, add links into your repo to justify your answers. And that document to your repo as docs/proj2rubric.md.
 - The following table has two new rows (see last two)
 - We are need to see a  **significant improvement** in Project2, compared to Project2. So some of these rows score **much more** than the others.
 - As to the other rows, they are sorted in a particular way. In Project1, only the high scoring teams succeeded on the later items. So, if you want to get good mark in project2,
