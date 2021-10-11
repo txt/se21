@@ -26,8 +26,8 @@ If that grading show any problem areas, you need to fix them (otherwise you will
 - As to the other rows, they are sorted in a particular way. In Project1, only the high scoring teams succeeded on the later items. So, if you want to get good mark in project2,
 pay extra attention to the latter rows.
 
-||Notes| Evidence|
-||-----|---------|
+|Score|Notes| Evidence|
+|-|-----|---------|
 |.5| short release cycles||
 |.5| workload is spread over the whole team (so one team member is often Xtimes more productive than the others...||
 |.5|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | |
