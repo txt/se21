@@ -17,9 +17,9 @@
 <table width="100%" border=0 align=center>
 <tr>
 <td width=300></td>
-<td align=center width=150><img src="docs/img/lectures.gif"></td>
+<td align=center xwidth=150><img src="docs/img/lectures.gif"></td>
 <td align=center><img           src="docs/img/review.gif"></td>
-<td align=center width=150><img width=64 src="docs/img/time.png"></td>
+<td align=center xwidth=150><img width=64 src="docs/img/time.png"></td>
 </tr>
 <tr>
 <td></td>
