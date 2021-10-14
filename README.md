@@ -59,14 +59,11 @@
         <a href="docs/doc.md">Documentation</a>, <br> </strike>
       <strike><a href="docs/people1.md">People</a><br>
        <a href="docs/patterns.md">Patterns</a> , <br>
-<<<<<<< HEAD
     <a href="docs/testing.md">Testing</a>, <br>     
-      <a href="docs/ethics.md">Ethics</a> </strike>
+      <a href="docs/ethics.md">Ethics</a>,(<a 
+   href="https://ncsu.zoom.us/rec/share/Xomrd8C0MAPgw-tgaicWvA2oDaqepafy9m6gDNq5PtZqxmPwx89WMJeLkqJYx0pq.0XdOvfPRHVYPMkYV">video</a>:softeng21!)</br>
+ </strike>
       <a href="docs/abstract.md">Abstraction</a> 
-=======
-    <a href="docs/testing.md">Testing</a>  </strike>, <br>     
-      <a href="docs/ethics.md">Ethics</a>(<a href="https://ncsu.zoom.us/rec/share/Xomrd8C0MAPgw-tgaicWvA2oDaqepafy9m6gDNq5PtZqxmPwx89WMJeLkqJYx0pq.0XdOvfPRHVYPMkYV">video</a>:softeng21!) 
->>>>>>> aae4506829fb96cb8caba407a7217493b2131580
   </dd>
 
 </dl>
