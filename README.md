@@ -59,8 +59,9 @@
         <a href="docs/doc.md">Documentation</a>, <br> </strike>
       <strike><a href="docs/people1.md">People</a><br>
        <a href="docs/patterns.md">Patterns</a> , <br>
-    <a href="docs/testing.md">Testing</a>  </strike>, <br>     
-      <a href="docs/ethics.md">Ethics</a> 
+    <a href="docs/testing.md">Testing</a>, <br>     
+      <a href="docs/ethics.md">Ethics</a> </strike>
+      <a href="docs/abstract.md">Abstraction</a> 
   </dd>
 
 </dl>
