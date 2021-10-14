@@ -59,9 +59,14 @@
         <a href="docs/doc.md">Documentation</a>, <br> </strike>
       <strike><a href="docs/people1.md">People</a><br>
        <a href="docs/patterns.md">Patterns</a> , <br>
+<<<<<<< HEAD
     <a href="docs/testing.md">Testing</a>, <br>     
       <a href="docs/ethics.md">Ethics</a> </strike>
       <a href="docs/abstract.md">Abstraction</a> 
+=======
+    <a href="docs/testing.md">Testing</a>  </strike>, <br>     
+      <a href="docs/ethics.md">Ethics</a>(<a href="https://ncsu.zoom.us/rec/share/Xomrd8C0MAPgw-tgaicWvA2oDaqepafy9m6gDNq5PtZqxmPwx89WMJeLkqJYx0pq.0XdOvfPRHVYPMkYV">video</a>:softeng21!) 
+>>>>>>> aae4506829fb96cb8caba407a7217493b2131580
   </dd>
 
 </dl>
@@ -81,12 +86,12 @@ Sept 16, <a href="docs/hw3.md">Homework 3</a><br></strike>
  
 Tbd,  Homework 5<br>
 Tbd,  Homework 6<br>
-Sept 30, <a href="docs/proj1.md">Project 1</a><br>
+<strike>Sept 30, <a href="docs/proj1.md">Project 1</a><br>
     Oct 4,  Proj1 grading week (no lecture Oct7)<br>
     Oct 5,  Voting4proj2 (5pm)<br>
-   Oct 7,  <a href="docs/hw3.md">Homework 4</a><br>
+   Oct 7,  <a href="docs/hw4.md">Homework 4</a></strike><br>
 Oct 12, <a href="docs/exam.md">Mid-term</a><br>
-Nov 4, Project 2<br>
+Nov 4, <a href="/docs/proj2.md">Project 2</a><br>
 Nov 29, Project 3<br>
 Dec 3, Exam" 
 </td>
