@@ -63,6 +63,7 @@
       <a href="docs/ethics.md">Ethics</a>,(<a 
    href="https://ncsu.zoom.us/rec/share/Xomrd8C0MAPgw-tgaicWvA2oDaqepafy9m6gDNq5PtZqxmPwx89WMJeLkqJYx0pq.0XdOvfPRHVYPMkYV">video</a>:softeng21!)</br>
  </strike>
+      <a href="https://docs.google.com/document/d/1aowGagI10w4JD18J7AOxgBCOUmx5oUkKdA_AF6vYBVY/edit">Proj1.report</a> 
       <a href="docs/abstract.md">Abstraction</a> 
   </dd>
 
