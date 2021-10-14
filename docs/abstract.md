@@ -547,7 +547,7 @@ between service providers.
 
 N tellers/ checkout people. How many lines? One? N?
 
-<img src="https://csbcorrespondent.com/sites/default/files/WSJ%20Teller%20Graphic_050418%20v.4.jpg" width=500>
+<img src="https://operationsroom.files.wordpress.com/2016/10/na-cl845_number_16u_20161006202714.jpg" width=700>
 
 Answer: see [7 insights into Queue Theory](http://www.treewhimsy.com/TECPB/Articles/SevenInsights.pdf)
 
