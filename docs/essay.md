@@ -20,14 +20,19 @@
 width=600>
 Work solo.
 
+## Word limit
+- Three pages (in the format shown below, excluding references);
+- HARD LIMIT: we will not grade after three pages.
 
 ## What to write
 - Using these [7 steps](https://github.com/txt/se20/blob/master/etc/img/12steps.png) as an outline
 - Address one of the [case studies](https://onlineethics.org/resources?combine=software&field_keywords_target_id=&field_resource_type_target_id=13236)
 
-Feel free to have fun with it. 
-- E.g. Switch to `Dr. Evil` mode and describe how to do the most socially irresponsible,human damaging
-  thing possible.
+Ensure that your answer includes a redesign for a better version
+of the  software (where the better software mitigates some of the
+issues discussed by the original software).
+
+- Ensure that your  text justifies why  the new design addresses the  problems you document.
 
 <br clear=all>
 
@@ -47,9 +52,7 @@ Create an overleaf.com account
          \linenumbers
 
 
-- Write at least a 1200 word paper
-  - Measured using their  "Word Count" tool (under menu top right)
-  - Add that count to title
+- Write at a three page paper.
 - Hit the "recompile" button
 - Look to the right of "recompile: for the download icon
 - Submit to Moodle
