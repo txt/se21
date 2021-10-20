@@ -22,6 +22,8 @@ In homework 2 and homework 3, you have experienced on finding reuse from one pac
 - Find reused works in those papers INDIVIDUALLY first, and record why you think it's a reuse for further reference.
 - After you and your partner finish the package, gather together through Discord, email, Slack, etc. Spend like 30 minutes to discuss the reuse you find, and make consistent result with your partner.
 - Submit the consistent result to Moodle.
+  
+Before you start homework4, please read this material we prepared for improving the accuracy of identifing reuse: https://docs.google.com/document/d/1P0SI8_KInGJ5cPJdozqe6ZdAhydgJ2DheKsKrBzcKmo/edit
 
 ## What to do
 1. We will assign you a package and your partner! Please go to assigning sheet (https://docs.google.com/spreadsheets/d/1Et5kzG3sfRMM3InX7aCjn1NLrnrrFfxwHT4QJ-1HGMw/edit#gid=0) and find your working package and your partner for HW4. 
