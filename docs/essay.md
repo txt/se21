@@ -23,7 +23,7 @@ Work solo.
 
 ## What to write
 - Using these [7 steps](https://github.com/txt/se20/blob/master/etc/img/12steps.png) as an outline
-- Address one of the [case studies](https://www.onlineethics.org/18876/Resources?resource-type=29_772&q=software%20engineering)
+- Address one of the [case studies](https://onlineethics.org/resources?combine=software&field_keywords_target_id=&field_resource_type_target_id=13236)
 
 Feel free to have fun with it. 
 - E.g. Switch to `Dr. Evil` mode and describe how to do the most socially irresponsible,human damaging
