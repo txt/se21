@@ -91,7 +91,7 @@ Tbd,  Homework 6<br>
 Oct 12, <a href="docs/exam.md">Mid-term</a></strike><br>
 Nov 4, <a href="/docs/proj2.md">Project 2</a><br>
 Nov 29, Project 3<br>
-Dec 3, <a href="/docs/essaay.md">Exam</a> 
+Dec 3, <a href="/docs/essay.md">Exam</a> 
 </td>
 </tr>
 
