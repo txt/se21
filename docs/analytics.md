@@ -17,7 +17,7 @@
 # Software Analytics
 
 <a href="https://www.youtube.com/watch?v=nO6X0azR0nw"><img
-   align=right src="http://github.com/txt/se20/blob/master/etc/img/ieeesoft.png" width=500></a>
+   align=right src="https://github.com/txt/se20/blob/master/etc/img/ieeesoft.png" width=500></a>
 
 Software development is a complex process:
 -  Human developers may not always understand all the factors that influence their projects.
