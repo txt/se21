@@ -126,38 +126,23 @@ For example, here  are just some of the many applications in this growing area o
 
 
 
--  combining software product information
-with apps store data (1,2);
--  using process data to predict overall
-project effort (3);
--  using software process models to learn effective
-project changes (4);<br>
+-  combining software product information with apps store data (1,2);
+-  using process data to predict overall project effort (3);
+-  using software process models to learn effective project changes (4);<br>
 <img src="https://github.com/txt/se20/blob/master/etc/img/energyGUI.png">
-- using operating system logs that predict software
-power consumption (5);
--  exploring product line models to configure
-new applications (6);
--  mining natural language requirements to find
-links between components (7);
+- using operating system logs that predict software power consumption (5);
+-  exploring product line models to configure new applications (6);
+-  mining natural language requirements to find links between components (7);
 -  mining performance data (8,9);
--  using XML
-descriptions of design patterns to recommend particular designs (10);
--  using email lists to understand the human networks inside software
-teams (11);
-- linking emails to source code artifacts and classifying
-their content (12);
-- using execution traces to learn normal interface
-usage patterns (13);
--  using bug databases to learn defect predictors
-that guide inspection teams to where the code is most likely to
-fail (14 –16) and to classify changes as clean or buggy (17);
--  using
-security data to identify indicators for software vulnerabilities (18);
+-  using XML descriptions of design patterns to recommend particular designs (10);
+-  using email lists to understand the human networks inside software teams (11);
+- linking emails to source code artifacts and classifying their content (12);
+- using execution traces to learn normal interface usage patterns (13);
+-  using bug databases to learn defect predictors that guide inspection teams to where the code is most likely to fail (14 –16) and to classify changes as clean or buggy (17);
+-  using security data to identify indicators for software vulnerabilities (18);
 - using visualization to support program comprehension (19);
--  using
-software ontologies to enable natural language queries( 20); and
-- mining code clones to assess the implications of cloning and
-copy/paste in software (21,22)
+-  using software ontologies to enable natural language queries( 20); and
+- mining code clones to assess the implications of cloning and copy/paste in software (21,22)
 
 
 1. M. Harman, Y. Jia, and Y. Zhang, “App Store Mining and Analysis: MSR for App Stores,” Proc. Mining Software Repositories, IEEE, 2012, pp. 108–111.
