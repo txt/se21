@@ -132,7 +132,7 @@ with apps store data (1,2);
 project effort (3);
 -  using software process models to learn effective
 project changes (4);<br>
-<img src="http://github.com/txt/se20/blob/master/etc/img/energyGUI.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/energyGUI.png">
 - using operating system logs that predict software
 power consumption (5);
 -  exploring product line models to configure
@@ -203,7 +203,7 @@ copy/paste in software (21,22)
 1. "Is it X?" : Hypothesis-driven
 2. "What is?  : Hypothesis-less.  Ideas change as we learn more about the data.
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/keys.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/keys.png">
 
 That old joke about how to find keys
 
@@ -211,7 +211,7 @@ That old joke about how to find keys
 - I say "you want hom to find his keys? And drive home drunk? Maybe over in the light he'll find tracks of a bus
    that take him to a bus stop which takes him to a bus which takes him home. And no one gets killed by a drunk driver."
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/evolve.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/evolve.png">
 
 
 - "When the facts change, I change my mind. What do you do?..." John Maynard Keynes
@@ -229,7 +229,7 @@ For more on this seea
 
 Maybe 5% of your effort on the "data mining" part
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/kddcycle.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/kddcycle.png">
 
 As to the rest:
 
@@ -237,7 +237,7 @@ As to the rest:
 Saleema Amershi, Andrew Begel, Christian Bird, Rob DeLine, Harald Gall, Ece Kamar, Nachiappan Nagappan, Besmira Nushi, Thomas Zimmermann
 - Maybe 5 hours per week in "model training"
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/seip.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/seip.png">
 
 -  Much of data mining is in the feature engineering
 
@@ -247,7 +247,7 @@ Saleema Amershi, Andrew Begel, Christian Bird, Rob DeLine, Harald Gall, Ece Kama
   defects than process data.
 - For really interesting reasons
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/process.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/process.png">
 <br clear=all>
 
 
@@ -256,7 +256,7 @@ Saleema Amershi, Andrew Begel, Christian Bird, Rob DeLine, Harald Gall, Ece Kama
 
 *Ensembles (simple)*
 
-<img width=500 align=right src="http://github.com/txt/se20/blob/master/etc/img/ensemble.png">
+<img width=500 align=right src="https://github.com/txt/se20/blob/master/etc/img/ensemble.png">
 
 - N slightly different experts are better than one
 - Take train and test data,
@@ -302,11 +302,11 @@ Saleema Amershi, Andrew Begel, Christian Bird, Rob DeLine, Harald Gall, Ece Kama
 
 Using for (e.g.) simplifying time series
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/sax.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/sax.png">
 
 *Feature selection*
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/fss.png" align=right width=500>
+<img src="https://github.com/txt/se20/blob/master/etc/img/fss.png" align=right width=500>
 
 - Many methods, but if you want something real simple,
 - CFS: look for combinations of attributes that are 
@@ -320,7 +320,7 @@ Using for (e.g.) simplifying time series
 
 *Class rebalancing*
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/smote.png" align=right width=500>
+<img src="https://github.com/txt/se20/blob/master/etc/img/smote.png" align=right width=500>
 
 - SMOTE:  Balance the distributions in the train data
  - Never mess with the test data.
@@ -338,7 +338,7 @@ Using for (e.g.) simplifying time series
 
 Learners have magic control variables.
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/hpo.png" align=right width=500>
+<img src="https://github.com/txt/se20/blob/master/etc/img/hpo.png" align=right width=500>
 
 - e.g. Discretization: how many bins to use for the numbers
 - e.g. Feature selection:  in SMOTE, how to balance the data
@@ -350,7 +350,7 @@ Changing those parameters can really improve these learners:
 
 <div clear=all>
 
-<img width=500 align=right src="http://github.com/txt/se20/blob/master/etc/img/tune.png">
+<img width=500 align=right src="https://github.com/txt/se20/blob/master/etc/img/tune.png">
 <div clear=all>
 
 - Dumb way to tune
@@ -417,7 +417,7 @@ test on the latest one
 |t-test                        | hedges       |[stats.py](https://gist.github.com/timm/33578871be53e604da83679dc7ccbcc5)    | "parametetic" (assumes "normal" data) | 
 |bootstrap                     | cliffs-delta | [sk.py](https://gist.github.com/timm/41b3a8790c1adce26d63c5874fbea393)      | "non-parametric"                      |
 
-<img align=right src="http://github.com/txt/se20/blob/master/etc/img/sk.png" width=600>
+<img align=right src="https://github.com/txt/se20/blob/master/etc/img/sk.png" width=600>
 
 - Scott knott test
   - Sort learners by their median score
@@ -477,7 +477,7 @@ a=97  | c=2   | silent
 b=0   | d=1   | loud
 ```
 
-<img width=500 align=right src="http://github.com/txt/se20/blob/master/etc/img/rocpdpf.png">
+<img width=500 align=right src="https://github.com/txt/se20/blob/master/etc/img/rocpdpf.png">
 
 You can't always get what you want
 
@@ -500,7 +500,7 @@ You can't always get what you want
 
 Here are two recent pretty darn good results:
 
-<img width=600 align=right src="http://github.com/txt/se20/blob/master/etc/img/dt.png">
+<img width=600 align=right src="https://github.com/txt/se20/blob/master/etc/img/dt.png">
 <br clear=all>
 
 Suvodeep Majumder's product predictions: where bugs are
@@ -510,13 +510,13 @@ Suvodeep Majumder's product predictions: where bugs are
   - CFS
   - Ensembles (Random Forests)
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/suvo750.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/suvo750.png">
 <br clear=all>
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/suvowhat.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/suvowhat.png">
 <br clear=all>
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/process.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/process.png">
 <br clear=all>
 
 
@@ -529,7 +529,7 @@ Process predictions: health indicators
 - Differential evolution for tuning
 - process metrics
 
-<img src="http://github.com/txt/se20/blob/master/etc/img/health.png">
+<img src="https://github.com/txt/se20/blob/master/etc/img/health.png">
 
 
 <br clear=all>
