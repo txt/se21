@@ -103,11 +103,10 @@ As Abram Hindle and colleagues explain:
 
 For example, here  are just some of the many applications in this growing area on research:
 
+-  <img src="https://github.com/txt/se20/blob/master/etc/img/energyGUI.png">
 - patterns in the tokens of software can recognize  code that is unexpected and bug prone;
 - sentiment analysis tools can gauge the mood of the developers, just by reading their issue comments (26).
 - clustering tools can explore complex spaces like StackOverflow to automatically detect related questions (27).
-
-
 -  For one set of projects, software analytics
    could predict 87 percent of code defects, decrease inspection
    efforts by 72 percent and hence, reduces post-release defects
@@ -118,18 +117,9 @@ For example, here  are just some of the many applications in this growing area o
 - is there too much data for a manual analysis, it is possible to
   automatically analyze data from hundreds to
   thousands of projects using software analytics (25)
-
-
-
-
-
-
-
-
 -  combining software product information with apps store data (1,2);
 -  using process data to predict overall project effort (3);
 -  using software process models to learn effective project changes (4);<br>
-<img src="https://github.com/txt/se20/blob/master/etc/img/energyGUI.png">
 - using operating system logs that predict software power consumption (5);
 -  exploring product line models to configure new applications (6);
 -  mining natural language requirements to find links between components (7);
