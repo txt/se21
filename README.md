@@ -65,7 +65,7 @@ password=softeng21!<br>
 <a href="https://docs.google.com/document/d/1aowGagI10w4JD18J7AOxgBCOUmx5oUkKdA_AF6vYBVY/edit">Proj1.report</a><br> </strike>
       <a href="docs/abstract.md">Abstraction</a><br>
    <a href="http://tiny.cc/acm19">AI&nbsp;-DUO</a>&nbsp;(<a href="/docs/acm19.pdf">pdf</a>,<a href="https://ncsu.zoom.us/rec/share/RuhFD6bXbhQ3xdX-4CmtKOxmsPaepUw7_-TOjtv5ZUUdAQGOgTE8sizFvNw9wjSo.ud2Vbf0dks7QMPvw">video</a>)<br>
-      <a href="docs/analytics.md">Analytics</a><br>
+https://ncsu.zoom.us/rec/share/Usvk99jwBZyCT-O98r2ZGx5yEQIM7eTUZP_ubXjhNQObz0-oZ9lRC4HopPf9ILnL.b5mQCPilnmnX_SfN">video</a><br>
   </dd>
 
 </dl>
