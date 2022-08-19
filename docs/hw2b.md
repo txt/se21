@@ -40,16 +40,17 @@ Submit your a URL to your repo to Moodle.
 CITATION.md : fill on once you've got your ZENODO DOI going
 CODE-OF-CONDUCT.md
 CONTRIBUTING.md
+INSTALL.md
 LICENSE.md
 README.md
-setup.py
-requirements.txt
+setup.py         // may change per language; e.g. Makefile 
+requirements.txt // may change per language; e.g javascript uses package.json
 data/
   README.md
 test/
   README.md
 code/
-  __init__.py
+  __init__.py  // may change per language; 
 ```
 
 If you don't know what any of the above do, then google them (they are quite standard). ALso, read the following: 
